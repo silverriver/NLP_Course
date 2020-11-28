@@ -22,7 +22,7 @@ parser.add_argument('--gpu', help='which gpu to use', type=str, default='3')
 
 args = parser.parse_args()
 
-os.environ['CUDA_VISIBLE_DEVICES'] = '3'
+os.environ['CUDA_VISIBLE_DEVICES'] = args.gpu
 device = torch.device('cuda', 0)
 
 from transformers import BertForSequenceClassification, BertConfig, BertTokenizer
