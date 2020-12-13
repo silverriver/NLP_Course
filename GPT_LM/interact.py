@@ -4,6 +4,9 @@ import random
 from itertools import chain
 from argparse import ArgumentParser
 from pprint import pformat
+import torch
+import torch.nn.functional as F
+from transformers import OpenAIGPTLMHeadModel, GPT2LMHeadModel, BertTokenizer
 
 
 
@@ -61,15 +64,15 @@ def build_input_from_segments(history, reply, tokenizer, with_eos=True):
     return instance, sequence
 
 
-def sample_sequence(history, tokenizer, model, args, current_output=None):
+def sample_sequence(history, tokenizer, model, args, device, current_output=None):
     special_tokens_ids = tokenizer.convert_tokens_to_ids(SPECIAL_TOKENS)
     if current_output is None:
         current_output = []
 
     for i in range(args.max_length):
         instance, sequence = build_input_from_segments(history, current_output, tokenizer, with_eos=False)
-        input_ids = torch.tensor(instance["input_ids"], dtype=torch.long, device=args.device).unsqueeze(0)
-        token_type_ids = torch.tensor(instance["token_type_ids"], dtype=torch.long, device=args.device).unsqueeze(0)
+        input_ids = torch.tensor(instance["input_ids"], dtype=torch.long, device=device).unsqueeze(0)
+        token_type_ids = torch.tensor(instance["token_type_ids"], dtype=torch.long, device=device).unsqueeze(0)
 
         logits, *_ = model(input_ids, token_type_ids=token_type_ids)
         logits = logits[0, -1, :] / args.temperature
@@ -92,7 +95,7 @@ def run():
     parser = ArgumentParser()
     parser.add_argument("--model_checkpoint", type=str, default="/home/data/tmp/CDial-GPT2_LCCC-base", help="Path, url or short name of the model")
     parser.add_argument("--max_history", type=int, default=6, help="Number of previous utterances to keep in history")
-    parser.add_argument("--gpu", type=str, default="3", help='which GPU to use')
+    parser.add_argument("--gpu", type=str, default="4", help='which GPU to use')
     parser.add_argument("--device", type=str, default="cuda")
     parser.add_argument("--no_sample", action='store_true', help="Set to use greedy decoding instead of sampling")
     parser.add_argument("--max_length", type=int, default=40, help="Maximum length of the output utterances")
@@ -104,11 +107,11 @@ def run():
                         help="Nucleus filtering (top-p) before sampling (<=0.0: no filtering)")
     args = parser.parse_args()
 
-    os.environ['CUDA_VISIBLE_DEVICES'] = args.gpu
+    if args.device == 'cuda':
+        device = torch.device('cuda', int(args.gpu))
+    else:
+        device = torch.device('cpu')
 
-    import torch
-    import torch.nn.functional as F
-    from transformers import OpenAIGPTLMHeadModel, GPT2LMHeadModel, BertTokenizer
     logging.basicConfig(level=logging.INFO)
     logger = logging.getLogger(__file__)
     logger.info(pformat(args))
@@ -124,7 +127,7 @@ def run():
     tokenizer = BertTokenizer.from_pretrained(args.model_checkpoint, do_lower_case=True)
     model = GPT2LMHeadModel.from_pretrained(args.model_checkpoint)
 
-    model.to(args.device)
+    model.to(device)
     model.eval()
 
     def tokenize(obj):
@@ -143,7 +146,7 @@ def run():
         raw_text = " ".join(list(raw_text.replace(" ", "")))
         history.append(tokenize(raw_text))
         with torch.no_grad():
-            out_ids = sample_sequence(history, tokenizer, model, args)
+            out_ids = sample_sequence(history, tokenizer, model, args, device)
         history.append(out_ids)
         history = history[-(2 * args.max_history + 1):]
         out_text = tokenizer.decode(out_ids, skip_special_tokens=True)
