@@ -1,0 +1,43 @@
+{
+  "comment": "below is the data preprocessing parameters",
+  "max_context_len": 35,
+  "max_resp_len": 35,
+
+  "comment": "below is the decoding parameters",
+  "max_decode_len": 37,
+  "beam_size": 4,
+  "diversity_coef": 0,
+  "diversity_groups": 2,
+  "sample": false,
+  "annealing_topk": 20,
+  "temperature": 0.8,
+  "annealing": 0.9,
+  "length_penalty": 2.2,
+
+  "top_k": 20,
+  "top_p": 0.8,
+
+  "comment": "below is the training parameters",
+  "n_epochs": 25,
+  "batch_size": 40,
+  "batch_split": 3,
+  "eval_steps": 200,
+  "lr": 0.1,
+  "lr_warmup": 1500,
+  "lm_weight": 0.02,
+  "n_jobs": 2,
+  "label_smoothing": 0.1,
+  "clip_grad": 1.0,
+  "seed": 42,
+  "eval_batch_size": 50,
+
+  "train_dir": "train",
+  "eval_dir": "eval",
+  "log_dir": "log",
+  "best_dir": "best",
+  "dialog_train": "/home/someone/data/dialog_train.json",
+  "dialog_valid": "/home/someone/data/dialog_valid.json",
+  "dialog_test": "/home/someone/data/dialog_test.json",
+  "dialogpt_dir": "dialogpt_small"
+}
+
