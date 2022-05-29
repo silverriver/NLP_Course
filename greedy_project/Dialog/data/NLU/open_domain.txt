@@ -1,0 +1,500 @@
+chat_domain	chat_intent	无 生 计 就 转 型 公 益 吧 ， 受 伤 哒 孩 纸	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	第 一 条 就 中 。 泡 脚 泡 脚 泡 脚 。	o o o o o o o o o o o o o
+chat_domain	chat_intent	角 度 是 个 问 题 ！ 但 这 不 是 角 度 的 问 题	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	老 郭 也 是 细 皮 嫩 肉 的	o o o o o o o o o
+chat_domain	chat_intent	哭 ， 已 没 有 泪 ， 叹 息 ， 已 没 有 声 ， 挣 着 眼 ， 我 什 么 也 看 不 见	o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	这 尊 佛 至 少 省 去 香 火 钱 。	o o o o o o o o o o o
+chat_domain	chat_intent	芙 蓉 瘦 得 牙 齿 像 龅 牙 了 ， 胖 点 好 。 这 个 芙 蓉 不 好 看	o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	先 洗 脑 在 开 会 和 通 知 没 啥 区 别 呢 。	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	关 笼 子 里 不 好 受 的 ， 还 是 放 野 马 回 归 自 然 比 较 好 。	o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	哈 哈 哈 哈 ！ 加 上 之 后 高 端 大 气 上 档 次 ！	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	咸 豆 腐 脑 能 吃 ？ 怎 么 又 这 种 存 在 ？	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	没 有 ， 你 就 给 我 尿 ， 小 编	o o o o o o o o o o o
+chat_domain	chat_intent	为 啥 最 后 那 只 的 舌 头 是 黑 色 的 ， 中 毒 了 吗	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	怎 么 看 上 去 很 恶 心 的 感 觉	o o o o o o o o o o o
+chat_domain	chat_intent	死 了 最 好 。 玷 污 我 的 顾 里	o o o o o o o o o o o
+chat_domain	chat_intent	过 日 子 帮 闵 行 区 版 图 很 m a t c h	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	没 有 被 花 掉 的 钱 才 是 ， 而 很 多 人 把 花 钱 当 作 自 由 唉 。	o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	自 己 选 择 的 路 就 要 坚 持 走 下 去 无 悔 今 生	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 看 过 这 个 不 知 道 是 怎 么 出 来 的 动 态 图 片	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	好 男 人 ， 就 是 和 媳 妇 吵 架 时 ， 抱 着 必 输 的 心 态 。	o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	哈 哈 ， 扫 木 方 向 ， 要 西 ， 还 未 知 空 间	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	两 个 受 伤 的 心 ？ 在 一 起 ？	o o o o o o o o o o o
+chat_domain	chat_intent	纽 约 今 晚 有 飓 风 ， 要 注 意 安 全 。 保 重 ！	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 以 为 X 6 啊 ， 结 果 。 我 。	o o o o o o o o o o o o
+chat_domain	chat_intent	这 必 然 是 绝 地 武 士 的 节 奏 啊	o o o o o o o o o o o o
+chat_domain	chat_intent	北 大 裸 奔 男 p k 北 大 保 安 ， 保 安 胜	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	有 这 样 的 前 女 友 也 挺 给 力	o o o o o o o o o o o
+chat_domain	chat_intent	出 发 的 目 地 就 是 走 路 。	o o o o o o o o o o
+chat_domain	chat_intent	难 忘 今 宵 啊 ， 难 忘 今 宵 。 大 家 明 年 见	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	前 三 张 不 太 懂 不 是 说 浏 览 器 对 c s s 的 支 持 度 吗	o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 肯 定 拿 了 国 家 一 等 奖 学 金 。	o o o o o o o o o o o o o
+chat_domain	chat_intent	第 一 张 太 爆 笑 了 ， 难 得 有 这 么 听 话 的 狗 狗 。	o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	伤 疤 是 抹 不 掉 的 痛 ！	o o o o o o o o o
+chat_domain	chat_intent	你 得 把 当 中 的 钉 子 拆 了 。	o o o o o o o o o o o
+chat_domain	chat_intent	我 晕 # 热 门 微 博 # a l i n k	o o o o o o o o o o o o o
+chat_domain	chat_intent	少 将 ， 还 是 要 在 河 边 喝 茶 舒 服	o o o o o o o o o o o o o
+chat_domain	chat_intent	安 全 感 ， 从 来 都 是 自 己 的 事 。	o o o o o o o o o o o o o
+chat_domain	chat_intent	左 下 角 那 位 大 哥 是 掏 钱 的 吗 ？ 。	o o o o o o o o o o o o o o
+chat_domain	chat_intent	应 该 说 更 加 成 熟 了 ， 更 有 韵 味 了 ！	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 也 要 做 个 不 生 气 的 好 妈 妈 ！	o o o o o o o o o o o o o
+chat_domain	chat_intent	完 ， 今 天 要 哼 一 整 天 这 歌 儿 了	o o o o o o o o o o o o o
+chat_domain	chat_intent	当 一 个 人 不 再 思 考 人 生 价 值 的 时 候 ， 意 味 着 他 已 经 熟 过 了 。	o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	哈 哈 ， 你 不 是 正 值 青 壮 年 嘛	o o o o o o o o o o o o
+chat_domain	chat_intent	f Ｖ 认 证 { ⑵ ⑷ 小 时 { 当 天 包 过 ‖ 好 运 伴 你 走 Ｑ 1 1 ⑵ ① 6 9 ⑵ O 8 ⒋	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 代 表 首 都 原 谅 你 ！	o o o o o o o o o
+chat_domain	chat_intent	今 早 ， 莫 明 其 妙 的 兴 奋 。 看 着 家 里 的 旧 电 器 ， 渐 渐 动 了 杀 机 。	o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	哇 ， 哪 里 可 以 买 啊 ？	o o o o o o o o o
+chat_domain	chat_intent	吃 得 完 么 ？ 吃 不 完 下 次 呼 叫 我 们 这 些 粉 丝 来 帮 忙 呗 。	o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	一 想 起 你 ， 我 的 脸 就 笑 丑 了	o o o o o o o o o o o o
+chat_domain	chat_intent	和 我 观 点 不 同 的 人 都 应 该 被 吊 死 ， 精 分 了	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	小 常 识 ， 大 作 用 。 一 分 钟 了 解 ！	o o o o o o o o o o o o o o
+chat_domain	chat_intent	尼 玛 ， 上 班 的 坐 姿 基 本 就 是 最 严 重 的 那 两 种 。 腰 疼 。	o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	扯 你 家 五 谷 玲 珑 月 光 电 缆 屁 ， 照 你 这 说 法 我 都 是 爱 因 斯 坦 了 。	o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	真 心 希 望 国 内 医 科 大 学 也 能 提 供 这 样 的 条 件 。	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	父 母 在 深 圳 ， 而 且 是 我 从 小 长 大 的 地 方	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	I Q 越 低 ， 越 相 信 这 条 消 息 。	o o o o o o o o o o o o o
+chat_domain	chat_intent	真 想 去 去 扬 州 ， 苏 州	o o o o o o o o o
+chat_domain	chat_intent	真 的 假 的 应 该 都 不 会 有 朋 友 去 验 证 吧	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	觉 得 和 一 般 的 后 侧 步 一 样	o o o o o o o o o o o
+chat_domain	chat_intent	哥 都 开 学 快 半 个 月 了	o o o o o o o o o
+chat_domain	chat_intent	安 久 不 要 欺 负 妹 妹 ！	o o o o o o o o o
+chat_domain	chat_intent	刘 老 师 准 备 帮 京 东 清 库 存 啦 ？ 真 是 好 人	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	越 来 越 多 漂 亮 自 信 的 C ！	o o o o o o o o o o o
+chat_domain	chat_intent	鲁 迅 为 何 没 写 出 长 篇 小 说 ？ a l i n k	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	五 系 统 切 换 都 能 做 出 来 ， 山 寨 就 是 强 啊 ！	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	够 吗 ？ 可 以 免 费 续 盘 吗 ？	o o o o o o o o o o o
+chat_domain	chat_intent	终 于 找 到 我 失 眠 的 原 因 了 。 嘿 嘿 。	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	噗 — — 要 不 要 这 样 啦 。 X D	o o o o o o o o o o o o
+chat_domain	chat_intent	我 也 在 玩 ， 这 个 游 戏 好 玩	o o o o o o o o o o o
+chat_domain	chat_intent	赶 紧 崩 ， 崩 了 买 大 房 子	o o o o o o o o o o
+chat_domain	chat_intent	我 去 的 时 候 在 下 雨 ， 雨 中 凤 凰 也 是 别 样 风 光 ！	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	哩 边 七 点 及 几 喇 吃 紧 晚 饭	o o o o o o o o o o o
+chat_domain	chat_intent	一 般 这 种 好 看 的 奇 异 的 果 子 ， 不 便 宜 且 都 很 难 吃 。	o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	怎 么 是 裸 奔 ？ 不 是 还 穿 着 鞋 吗 ！ 保 安 大 叔 真 是 的	o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	当 一 个 人 开 始 思 考 自 己 人 生 价 值 的 时 候 ， 意 味 着 T A 开 始 成 熟 了	o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	这 个 表 情 和 他 说 “ 我 错 了 ” 的 时 候 的 表 情 好 像 啊 ！	o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 想 知 道 这 是 哪 个 公 司 。	o o o o o o o o o o o
+chat_domain	chat_intent	我 觉 得 嫂 子 打 得 不 错	o o o o o o o o o
+chat_domain	chat_intent	我 跟 你 遇 见 同 样 的 情 况 。 不 过 我 是 男 的 人 家 光 想 打 我 而 已 。 吗 比 的	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	唉 ， 难 怪 我 睡 不 着 觉 啊	o o o o o o o o o o
+chat_domain	chat_intent	是 非 题 ？ 需 要 角 度 ， 更 需 要 勇 气 ！	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	尔 康 那 段 好 好 笑 啊 - -	o o o o o o o o o o
+chat_domain	chat_intent	这 么 漂 亮 。 花 几 十 万 学 费 也 倒 是 品 质 不 一 样 。	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 很 好 奇 。 那 围 观 的 两 人	o o o o o o o o o o o
+chat_domain	chat_intent	经 常 看 到 这 只 杂 交 松 狮 到 处 跑	o o o o o o o o o o o o o
+chat_domain	chat_intent	人 生 就 是 在 不 停 地 假 装 ' ' ' ' '	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	将 素 食 进 行 到 底 。 祈 愿 更 多 的 朋 友 吃 素 。	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 不 过 是 饼 干 外 边 烤 焦 了 ， 你 们 这 些 怎 么 弄 出 来 的 ！	o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	董 哥 已 拉 响 刷 屏 警 报	o o o o o o o o o
+chat_domain	chat_intent	白 热 化 ！ 出 个 劲 儿 ！	o o o o o o o o o
+chat_domain	chat_intent	去 过 两 次 。 在 大 自 然 的 美 下 ， 人 很 渺 小	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	学 生 才 H a p p y 好 吗 ？ 破 考 试 而 已 。 工 作 才 累 才 心 酸 呢 。	o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	哈 哈 哈 。 配 图 的 节 操 呢 ！	o o o o o o o o o o o
+chat_domain	chat_intent	小 兰 等 了 他 这 么 久 ！	o o o o o o o o o
+chat_domain	chat_intent	这 个 必 须 强 烈 恭 喜 啊 ！ 哈 哈 ！	o o o o o o o o o o o o o
+chat_domain	chat_intent	回 复 k e s o : 出 场 也 像 一 个 神 。	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	大 学 时 期 去 过 的 地 方 ， 真 的 很 美 ！	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	香 蕉 冻 硬 根 本 不 好 吃 。 伪 吃 货 。	o o o o o o o o o o o o o o
+chat_domain	chat_intent	像 过 去 的 年 轻 时 光 致 敬	o o o o o o o o o o
+chat_domain	chat_intent	侧 门 上 有 木 料 的 ， 肯 定 是 高 端 车 了 。	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 着 了 人 家 的 道 ， 点 样 办 ？	o o o o o o o o o o o o
+chat_domain	chat_intent	先 生 有 才 。 看 戏 喜 庆 。	o o o o o o o o o o
+chat_domain	chat_intent	怎 么 回 事 呀 ， 好 好 的 就 着 火 了 吗 ？ 现 在 天 气 也 不 怎 么 热 啊 ！	o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	感 觉 你 今 天 穿 的 黄 色 羽 绒 服 很 漂 亮 ， 样 式 很 新 颖 。	o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	谁 给 解 释 下 ！ 不 懂 啊 ！	o o o o o o o o o o
+chat_domain	chat_intent	我 跪 求 ， 一 个 美 好 的 假 期 ！	o o o o o o o o o o o o
+chat_domain	chat_intent	好 可 爱 的 泰 迪 熊 啊 ！	o o o o o o o o o
+chat_domain	chat_intent	的 确 是 这 样 ！ 伤 不 起 。	o o o o o o o o o o
+chat_domain	chat_intent	只 有 一 个 好 处 不 怎 么 堵 车	o o o o o o o o o o o
+chat_domain	chat_intent	貌 似 这 种 功 能 发 布 很 久 了 啊 。 但 确 实 用 户 体 验 非 常 好	o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	一 般 情 况 最 后 都 是 贴 近 老 板 的 需 求 了	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	还 有 一 个 超 酷 的 ： " " M a x ， y o u a r e a b i t c h ！ " " " " O h ， I a m s o m a n y b i t c h e s ， I l o s t c o u n t . " "	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	囧 ， 这 就 是 ７ 分 了 吗 ？ 很 单 一 的 句 子 结 构 啊 ！	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	去 海 南 呀 诺 达 ， 被 揪 着 耳 朵 照 相 ， 最 后 还 要 花 钱 把 照 片 买 下 来	o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	婚 礼 是 一 节 公 开 课 。	o o o o o o o o o
+chat_domain	chat_intent	兄 弟 别 急 ， 广 电 总 局 投 拍 的 《 被 禁 锢 的 姜 戈 》 马 上 就 要 上 映 ！	o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	现 在 的 骗 纸 毫 无 节 操 。 我 深 深 地 跪 了 。 「 转 」	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	原 来 我 学 的 高 数 弱 爆 了	o o o o o o o o o o
+chat_domain	chat_intent	拿 别 人 的 身 体 取 乐 ， 鄙 视 ！	o o o o o o o o o o o o
+chat_domain	chat_intent	看 到 这 句 话 我 两 手 一 抖	o o o o o o o o o o
+chat_domain	chat_intent	当 时 走 这 个 墩 子 着 实 让 我 心 惊 胆 颤 了 一 番 ！	o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	原 谅 是 选 择 性 的 忘 记 ， 放 弃 是 彻 底 的 忘 记 。	o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	好 喜 欢 这 个 图 这 句 话 嗯	o o o o o o o o o o
+chat_domain	chat_intent	什 么 东 东 ？ 快 快 分 享 一 下 。	o o o o o o o o o o o o
+chat_domain	chat_intent	亲 ， 你 的 嘴 巴 出 卖 了 你	o o o o o o o o o o
+chat_domain	chat_intent	发 错 了 亲 。 你 发 的 是 皇 马 。	o o o o o o o o o o o o
+chat_domain	chat_intent	靠 ！ 甜 的 咸 的 老 娘 都 吃 过 ！ 都 很 好 吃 好 吗 ！ 做 人 要 包 容 。 哼 。	o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	如 人 饮 水 ， 冷 暖 自 知 。	o o o o o o o o o o
+chat_domain	chat_intent	万 方 晚 安 。 等 着 我	o o o o o o o o
+chat_domain	chat_intent	二 十 四 桥 明 月 夜 ， 尽 是 男 儿 销 骨 处 ！	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	回 复 左 八 : 邀 请 码 干 嘛 滴 ？ 好 奇	o o o o o o o o o o o o o o
+chat_domain	chat_intent	艾 玛 。 一 刷 新 第 一 条 就 是 个 这 〜 打 击 有 点 大 。	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	小 朋 友 不 要 模 仿 ， 姐 姐 是 有 练 过 的 ！	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	好 喜 欢 你 得 穆 桂 英 、 豆 花 。	o o o o o o o o o o o o
+chat_domain	chat_intent	4 0 0 * 8 0 0 的 . 手 机 截 屏 吗 ？ . 不 知 道 8 1 2 8 多 少 钱 。 好 期 待 。	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	自 己 烤 面 包 ， 热 腾 出 炉 ， 香	o o o o o o o o o o o o
+chat_domain	chat_intent	武 大 的 樱 花 已 名 声 远 扬 ， 美 ！	o o o o o o o o o o o o o
+chat_domain	chat_intent	看 着 怎 么 一 点 也 没 有 食 欲 呢	o o o o o o o o o o o o
+chat_domain	chat_intent	生 活 是 甜 的 。 晚 安 。	o o o o o o o o o
+chat_domain	chat_intent	我 家 苞 米 也 会 ， 当 即 给 我 吓 坏 了 ， 不 过 也 就 突 发 了 一 下 。	o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	琏 城 的 爹 你 是 咋 想 的	o o o o o o o o o
+chat_domain	chat_intent	我 害 怕 。 请 不 要 辜 负 了 你 的 爱 ， 和 她 对 你 的 爱 。	o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	有 同 窗 如 斯 ， 人 生 足 矣 。	o o o o o o o o o o o
+chat_domain	chat_intent	出 其 不 意 ， 攻 其 不 备 ！ 这 要 是 还 不 能 拿 下 ， 那 就 太 悲 催 了 ！	o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	应 该 用 汉 语 ， 而 不 是 英 语	o o o o o o o o o o o
+chat_domain	chat_intent	不 过 ， 李 主 任 续 集 还 没 看 到 ， 还 是 令 我 失 望 的 。	o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	呵 呵 ， 爱 的 心 比 什 么 都 大 ， 爱 是 无 穷 大 滴 ， 要 多 大 就 多 大 。	o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 明 明 是 宁 波 人 啊 ， 咋 变 成 间 于 老 克 勒 和 苏 北 人 之 间 的 人 了 。	o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	在 大 连 发 现 国 王 碰 到 过 你 一 次 希 望 在 哈 尔 滨 还 能 碰 到 你	o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	有 遇 到 一 个 “ 龙 哥 ” 的 麻 烦 请 叫 他 “ 隆 胸 = 龙 兄 ”	o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	你 在 想 这 是 个 中 国 人 呢 ？ 还 是 韩 国 人 ？	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	人 多 到 爆 ， 现 场 很 h i g h ， 回 来 后 再 想 想 有 点 空 虚 啊 。	o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	第 三 位 你 是 怎 么 混 进 去 的 ！	o o o o o o o o o o o o
+chat_domain	chat_intent	这 一 次 ， 是 真 的 滚 蛋 了 。 7 年 了 ， 再 见 ， 北 航 .	o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	有 人 对 我 呵 呵 我 就 让 他 喝 水 去	o o o o o o o o o o o o o
+chat_domain	chat_intent	是 遇 到 什 么 有 才 华 的 人 受 刺 激 了 ？	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 连 起 跑 线 都 找 不 到	o o o o o o o o o
+chat_domain	chat_intent	强 烈 同 意 。 有 那 个 人 害 怕 。	o o o o o o o o o o o o
+chat_domain	chat_intent	我 想 知 道 在 哪 买 的 ？	o o o o o o o o o
+chat_domain	chat_intent	为 虎 作 伥 残 害 无 辜 生 灵	o o o o o o o o o o
+chat_domain	chat_intent	我 说 句 不 太 那 什 么 的 话 。 那 是 俩 男 的 么 ？	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	新 华 社 也 质 疑 了 ， 看 汝 横 行 到 几 时 ？	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	很 好 ， 你 怎 么 打 扮 都 漂 亮 。	o o o o o o o o o o o o
+chat_domain	chat_intent	傻 逼 ， 写 的 标 语 。 家 里 难 到 死 人 了 ？	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	虽 然 做 得 很 精 致 ， 但 是 我 不 会 吃 。 现 在 真 是 什 么 都 能 想 出 来 啊 。 ！	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	试 一 下 哎 。 不 知 效 果 如 何 。	o o o o o o o o o o o o
+chat_domain	chat_intent	情 妇 不 是 你 想 当 就 能 当 。	o o o o o o o o o o o
+chat_domain	chat_intent	又 片 片 吹 尽 也 。 几 时 见 得 。	o o o o o o o o o o o o
+chat_domain	chat_intent	孩 他 妈 你 怎 么 还 是 那 么 美	o o o o o o o o o o o
+chat_domain	chat_intent	哈 哈 。 挺 生 动 的 ， 支 持 一 下 。	o o o o o o o o o o o o o
+chat_domain	chat_intent	我 已 经 无 地 自 容 了 ， 她 真 的 瘦 了 那 么 多	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	撞 色 撞 到 b a n g b a n g 声 。	o o o o o o o o o o o o o o
+chat_domain	chat_intent	这 货 是 只 旺 狗 狗 哟 ， 金 被 盖 银 床 ， 四 抓 盘 银 。 简 直 就 一 旺 财	o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	哈 哈 哈 ， 比 金 三 胖 我 们 还 是 进 步 大 大 D I	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	令 人 敬 佩 的 是 内 在 ， 胖 瘦 都 是 芙 蓉 ！	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 岂 不 是 很 讨 骂 ？ ！	o o o o o o o o o
+chat_domain	chat_intent	来 到 你 们 竞 演 的 地 方 ， 再 说 一 说 ， 早 安 ， 青 年 。	o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	还 给 自 己 留 了 余 地 ， “ 乱 买 ” ， 那 什 么 样 才 是 不 乱 买 呢 ？	o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	什 么 礼 物 这 么 开 心 啊 ， 是 不 是 恬 恬 逗 你 开 心 啦 啊 ， 嘿 嘿 ！	o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	累 了 就 抓 个 肩 膀 靠 靠 ， 暂 时 不 用 逞 强	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	想 开 了 自 然 微 笑 ， 看 破 了 肯 定 放 下 。	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	求 购 原 味 丝 袜 热 裤 内 衣 裤 ！	o o o o o o o o o o o o
+chat_domain	chat_intent	登 上 了 一 艘 舱 底 漏 水 的 烂 船 ， 能 保 住 小 命 就 不 错 了 。	o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	不 用 这 么 狠 吧 过 得 更 好 比 较 重 要	o o o o o o o o o o o o o o
+chat_domain	chat_intent	悲 剧 的 ， 失 恋 三 十 三 天 ， 我 放 四 十 四 天 ， 咋 找 不 到 女 朋 友 呢	o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	简 朴 原 纯 的 声 音 收 藏 也 在 围 观 北 爱	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	今 天 坐 飞 机 。 盼 望 ， 渴 望 ， 渴 求 ⋯ ⋯ 正 点 。	o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	是 很 抒 情 。 春 天 听 这 个 容 易 犯 困 。 哈 哈 哈 ， 开 车 小 心 。	o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	小 米 就 这 样 沦 为 山 寨 了 吗	o o o o o o o o o o o
+chat_domain	chat_intent	这 是 人 体 自 行 车 的 游 戏 ， 貌 似 国 外 很 流 行	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	一 湖 春 水 ， 柳 条 依 依 。 真 的 很 美 ！ 可 以 一 直 不 能 成 行 啊 。	o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	现 在 还 有 这 么 干 净 的 河 ， 这 么 清 的 水 草 吗 ， 有 点 怀 疑 真 实 性	o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	错 了 ！ 亲 王 ， 这 里 是 漠 河 。	o o o o o o o o o o o o
+chat_domain	chat_intent	你 们 这 些 白 痴 、 = _ = 把 手 没 拉 根 本 没 在 加 汽 油	o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	预 测 每 天 走 势 多 是 精 神 分 裂	o o o o o o o o o o o o
+chat_domain	chat_intent	， 双 鱼 和 天 蝎 是 绝 配 的 话 那 我 是 天 蝎 座 ， 我 对 号 入 座	o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	希 望 有 一 天 我 也 有 机 会 抓 紧 学 好 英 语	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	哈 哈 哈 ， 最 后 一 张 抓 拍 的 好 到 位 ！	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	二 逼 ， 牛 逼 ， 普 通 总 理	o o o o o o o o o o
+chat_domain	chat_intent	我 会 更 加 努 力 的 练 习 书 法 的	o o o o o o o o o o o o
+chat_domain	chat_intent	难 怪 我 妈 老 说 : 看 书 得 动 脑 子 看 电 视 不 动 脑 子 。	o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	原 唱 侃 侃 的 《 滴 答 》	o o o o o o o o o
+chat_domain	chat_intent	这 ， 是 自 黑 么 ？ 还 是 真 心 话 ？	o o o o o o o o o o o o o
+chat_domain	chat_intent	这 个 系 列 有 三 个 图 吧 ， 最 后 中 国 逆 袭 了	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	这 不 是 炒 饭 吗 ？ 中 午 就 吃 这 ？	o o o o o o o o o o o o o
+chat_domain	chat_intent	李 静 姐 节 日 快 乐 假 期 愉 快 千 万 不 要 每 逢 佳 节 胖 三 斤 哟	o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	这 样 洗 怪 不 好 意 思 的	o o o o o o o o o
+chat_domain	chat_intent	你 不 象 流 氓 、 真 的 。 象 混 子 。	o o o o o o o o o o o o o
+chat_domain	chat_intent	“ 天 生 丽 质 ” 和 “ 天 生 励 志 ”	o o o o o o o o o o o o o
+chat_domain	chat_intent	荔 枝 和 葵 花 籽 剥 好 一 堆 · 这 俩 都 试 过	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 擦 我 想 去 乐 高 。 天 天 堆 积 木 玩	o o o o o o o o o o o o o o
+chat_domain	chat_intent	难 免 抱 怨 ， 但 仍 需 坚 持	o o o o o o o o o o
+chat_domain	chat_intent	乖 乖 ， 肚 脐 露 得 很 性 感 啊 ！	o o o o o o o o o o o o
+chat_domain	chat_intent	老 大 怪 不 得 都 叫 你 刘 二 二 ， 有 范 二 了 ！	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	你 们 看 清 楚 这 难 道 不 是 毛 巾 吗 不 要 让 我 倒 霉	o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	第 一 下 能 保 持 平 衡 也 很 关 键 ， 确 实 差 距 明 显	o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	《 魔 戒 》 的 “ 发 源 地 ” ！	o o o o o o o o o o o
+chat_domain	chat_intent	辛 苦 了 ！ 妞 ， 回 家 好 好 过 年 吧 ！	o o o o o o o o o o o o o o
+chat_domain	chat_intent	针 对 零 起 点 学 生 ， 怎 样 做 到 全 汉 语 教 学 呢 ？	o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	是 每 一 个 人 在 生 活 和 交 往 当 中 都 该 学 着 这 些 道 理 。	o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	少 白 云 游 。 木 以 不 材 保 其 天 年	o o o o o o o o o o o o o
+chat_domain	chat_intent	- - 易 经 济 学 : 提 高 英 语 写 作 分 数 的 8 8 个 词 组 。	o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	其 实 江 南 的 中 学 幼 儿 园 都 可 能 有 这 么 好 的 微 观 景 致 啊 ！	o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	人 家 原 来 也 是 老 上 海 来 的 ！	o o o o o o o o o o o o
+chat_domain	chat_intent	不 管 你 信 不 信 ， 我 信 了 ！	o o o o o o o o o o o
+chat_domain	chat_intent	还 有 一 句 ： 我 机 器 上 是 好 的 呀 ？ 你 更 新 代 码 了 吗 ？ = _ =	o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	以 真 爱 的 名 义 ， 拆 散 家 庭 ， 是 婊 子 的 必 修 课 。	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	现 在 禁 止 露 天 烧 烤 啊	o o o o o o o o o
+chat_domain	chat_intent	湘 湘 姐 ， 很 喜 欢 你 ！	o o o o o o o o o
+chat_domain	chat_intent	人 家 日 本 人 都 登 岛 了 ， 你 们 才 开 始 报 这 条 老 新 闻 。	o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	有 用 吗 ？ 还 留 恋 过 去 呢 ？	o o o o o o o o o o o
+chat_domain	chat_intent	哈 导 辛 苦 喽 ， 早 安 ！	o o o o o o o o o
+chat_domain	chat_intent	经 常 一 个 人 飞 的 表 示 很 有 鸭 梨 啊 ， 创 意 哦	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	老 师 在 在 扬 州 啊 ！ 我 今 天 正 好 从 学 校 回 来 啦 。	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	遇 到 一 个 很 仗 义 的 龙 哥 ， 祝 福 他	o o o o o o o o o o o o o o
+chat_domain	chat_intent	1 0 年 前 去 过 海 南 ， 看 到 这 些 美 景 ， 勾 起 了 我 美 好 的 回 忆 。	o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	这 不 是 咱 们 家 丁 丁 小 时 候 么 ！	o o o o o o o o o o o o o
+chat_domain	chat_intent	哦 。 都 是 水 果 我 喜 欢 。	o o o o o o o o o o
+chat_domain	chat_intent	可 是 ， 昨 晚 才 失 眠 到 凌 晨 四 点 多	o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 小 时 候 就 知 道 什 么 是 孤 单 ， 越 长 大 越 孤 单 。 习 惯 了 就 好 。	o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	有 多 少 人 是 抱 着 我 这 样 的 心 态 打 开 大 图 的 ？ 我 以 为 是 一 个 人 。	o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	昨 天 刚 埋 的 吧 ！ 你 看 那 “ 香 ” 字 。	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 在 我 最 爱 的 城 市 ， 猜 猜 我 在 那 儿 ？	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	这 与 画 室 谁 吃 静 物 考 不 上 大 学 有 的 一 拼 。	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	还 要 加 一 项 ， 把 胶 水 涂 在 手 上 ， 干 了 再 撕 下 来 ！ 呵 呵 ， 有 木 有 ？ ！	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	喜 欢 他 的 创 作 。 很 喜 欢 《 北 京 一 夜 》	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	似 乎 好 像 是 去 年 哈 尔 滨 学 府 路 上 栏 杆 的 标 识	o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	这 个 题 词 器 多 少 钱 ？ 真 大 啊 ！	o o o o o o o o o o o o o
+chat_domain	chat_intent	弱 弱 的 问 不 单 独 售 票 是 什 么 意 思 ？	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	自 己 选 择 的 路 ， 跪 着 也 要 走 下 去	o o o o o o o o o o o o o o
+chat_domain	chat_intent	1 2 天 没 有 新 闻 联 播 打 卡 的 人 ！	o o o o o o o o o o o o o o
+chat_domain	chat_intent	不 求 最 好 但 求 最 贵 ！ 哈 哈	o o o o o o o o o o o
+chat_domain	chat_intent	好 美 的 植 物 ， 好 美 的 名 字 。	o o o o o o o o o o o o
+chat_domain	chat_intent	不 是 已 经 早 就 新 老 交 替 了 吗 ？	o o o o o o o o o o o o o
+chat_domain	chat_intent	全 民 严 阵 以 待 ， 把 下 午 的 雨 吓 得 够 呛 ， 不 敢 下 了 ！	o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	哪 位 知 道 这 一 个 个 穿 插 叠 起 的 是 怎 么 折 的 呀	o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	如 果 一 口 把 这 人 吞 了	o o o o o o o o o
+chat_domain	chat_intent	哈 哈 ， 牛 总 最 近 有 点 激 动 啊 ！ 平 静 点 吧	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	关 键 是 能 不 能 让 中 国 电 影 重 新 有 个 质 的 上 升 。	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	把 女 友 升 级 为 老 婆 时 发 生 的 B U G 。 转 自 网 络 ， 欢 迎 认 领 。	o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	习 惯 从 下 往 上 看 的 路 过 转 走 。	o o o o o o o o o o o o o
+chat_domain	chat_intent	从 青 岛 回 来 的 我 又 准 备 直 播 啦 ！	o o o o o o o o o o o o o o
+chat_domain	chat_intent	东 莞 卖 身 得 来 的 钱 劳 拉 要 注 意 了	o o o o o o o o o o o o o o
+chat_domain	chat_intent	叶 散 的 时 候 ， 你 明 白 欢 聚 。 花 谢 的 时 候 ， 你 明 白 青 春 。	o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	新 版 阿 里 移 动 版 上 线 ， 支 持 登 录 和 旺 旺 ， 欢 迎 体 验 a l i n k	o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	其 实 说 穿 了 ， 就 是 不 敢 写 ， 怕 被 人 耻 笑 ！	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	这 得 是 什 么 样 的 好 心 境 啊	o o o o o o o o o o o
+chat_domain	chat_intent	要 是 有 个 义 无 反 顾 的 人 爱 着 就 好 了	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	有 人 让 我 给 你 刷 评 论 /	o o o o o o o o o o
+chat_domain	chat_intent	能 不 要 这 么 恶 心 么 ， 干 嘛 把 人 原 创 的 水 印 去 掉 ？	o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	句 句 都 ， 都 ， 都 想 大 笑	o o o o o o o o o o
+chat_domain	chat_intent	冬 天 的 杭 州 美 景 ， 同 样 迷 人 。	o o o o o o o o o o o o o
+chat_domain	chat_intent	难 怪 我 每 天 都 没 办 法 早 睡 。	o o o o o o o o o o o o
+chat_domain	chat_intent	这 样 露 点 的 图 发 了 是 违 法 的 吧 ？	o o o o o o o o o o o o o o
+chat_domain	chat_intent	最 后 一 个 真 。 唉 ！ 羊 驼 = 草 泥 马 。	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	琢 磨 先 生 脱 口 秀 - 朝 鲜 射 了	o o o o o o o o o o o o
+chat_domain	chat_intent	恩 ， 夜 幕 降 临 后 ， 走 到 正 中 间 放 河 灯 ， 真 的 是 很 美 的 感 觉 ！	o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	预 祝 您 拍 出 更 好 更 多 的 作 品	o o o o o o o o o o o o
+chat_domain	chat_intent	长 大 了 些 ， 懂 得 欣 赏 美 味 了	o o o o o o o o o o o o
+chat_domain	chat_intent	现 有 体 制 与 格 局 下 的 努 力 尝 试 ， 尽 力 当 活 马 医 。	o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	6 年 了 ， 这 头 牛 还 在 。	o o o o o o o o o o
+chat_domain	chat_intent	我 想 我 此 时 此 刻 也 想 明 白 了	o o o o o o o o o o o o
+chat_domain	chat_intent	筷 子 是 不 能 插 碗 里 的 。	o o o o o o o o o o
+chat_domain	chat_intent	一 天 吃 几 十 颗 西 瓜 不 是 梦 ！	o o o o o o o o o o o o
+chat_domain	chat_intent	。 分 享 。         	o o o o o o o o o o o o o
+chat_domain	chat_intent	好 孩 子 是 从 教 育 家 长 开 始 的 ， 欣 赏 美 国 的 教 育 理 念	o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	看 来 我 是 在 过 日 子 喽 。	o o o o o o o o o o
+chat_domain	chat_intent	哈 哈 哈 哈 ， 小 日 本 弄 死 你 ！	o o o o o o o o o o o o
+chat_domain	chat_intent	好 有 创 意 啊 ！ 胖 子 们 快 加 油 减 肥 了 啊	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	晚 安 咯 。 祝 好 梦 。 愿 一 切 顺 利 。	o o o o o o o o o o o o o o
+chat_domain	chat_intent	T h e L a s V e g a s p i c t u r e i s N e w Y o r k P r e - 9 1 1 . W a k e u p ！	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	日 增 一 素 ， 可 放 一 生 ， 慈 悲 ， 晚 安 。	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	吃 了 老 爸 煮 的 面 条 ， 加 了 个 鸭 蛋 ！	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	最 不 爽 的 是 “ 去 洗 澡 ” “ 去 吃 饭 ” “ 我 睡 了 ”	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 总 以 为 我 很 幼 稚 ， 其 实 那 些 所 谓 的 大 人 物 们 ， 也 一 样 不 够 成 熟 。	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	没 有 最 长 ， 只 有 更 长	o o o o o o o o o
+chat_domain	chat_intent	回 复 彭 薇 : 你 也 不 是 俺 滴 粉 丝 哦 。	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 去 ！ 今 天 不 是 下 雨 了 嘛 ！	o o o o o o o o o o o o
+chat_domain	chat_intent	就 是 说 你 不 承 认 这 是 抄 袭 喽 。	o o o o o o o o o o o o o
+chat_domain	chat_intent	哈 哈 ！ 很 可 爱 噢 。 顶 一 个 ！	o o o o o o o o o o o o
+chat_domain	chat_intent	鬼 子 进 村 好 几 十 年 了 。	o o o o o o o o o o
+chat_domain	chat_intent	我 说 我 怎 么 那 么 晚 睡 了 ！	o o o o o o o o o o o
+chat_domain	chat_intent	最 近 一 直 在 想 ， 还 没 想 透 ， 我 应 该 还 没 熟	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	拭 目 以 待 吧 ！ 这 样 的 房 价 切 实 高 了 ！	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	方 肘 子 敢 不 敢 赶 快 呼 吁 案 件 重 启 信 息 公 开 ， 外 加 捐 款 朱 令 。	o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 只 关 心 破 了 对 我 们 普 通 老 百 姓 有 没 有 影 响	o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	这 也 至 于 休 学 ？ 还 痛 苦 的 父 亲 ， 只 能 说 是 傻 逼 的 父 亲 。	o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	原 来 如 此 ， 这 原 因 可 以 接 受 ！	o o o o o o o o o o o o o
+chat_domain	chat_intent	好 吧 ， 我 到 帝 都 了 ， 不 过 是 明 朝 的 我 在 这 里 ： # 南 京 市 - 江 宁 区 #	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	好 像 美 丽 心 灵 里 的 情 景	o o o o o o o o o o
+chat_domain	chat_intent	伤 不 起 啊 真 的 伤 不 起	o o o o o o o o o
+chat_domain	chat_intent	北 京 ！ 居 然 是 m a r c o 最 爱 的 城 市 啊 ！ 注 意 保 暖 哦	o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	推 荐 棺 材 板 & 大 肠 包 小 肠 还 有 个 什 么 土 豆 泥	o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 们 一 般 称 之 曰 ： 龙 兄	o o o o o o o o o o
+chat_domain	chat_intent	广 院 的 肉 饼 ！ 太 想 念 这 口 儿 了 ！	o o o o o o o o o o o o o o
+chat_domain	chat_intent	黄 老 师 真 是 个 念 旧 的 人 ， 不 过 乌 镇 真 的 留 下 太 多 人 太 多 美 好 的 回 忆	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	大 法 师 ， 威 力 无 边 呀 。	o o o o o o o o o o
+chat_domain	chat_intent	一 般 人 还 真 不 会 这 么 大 胆 的 去 运 用 ！	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	I Q 高 ， 情 商 高 ！ 难 免 失 眠 ！	o o o o o o o o o o o o o
+chat_domain	chat_intent	每 顿 都 有 水 果 太 养 生 了 中 午 不 吃 菜 简 单 了 点 吧	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	好 邻 居 啊 ， 几 辈 子 修 来 的 福 分 呢	o o o o o o o o o o o o o o
+chat_domain	chat_intent	怎 么 好 吃 的 总 是 要 在 我 饿 的 时 候 看 到 。	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	心 中 的 疑 问 终 于 解 决 ！	o o o o o o o o o o
+chat_domain	chat_intent	最 重 要 的 是 ， 球 还 没 进 ， 打 门 后 就 去 庆 祝 了 ， 赞 一 个	o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	点 进 去 之 后 信 息 量 好 大 ， 捂 脸	o o o o o o o o o o o o o
+chat_domain	chat_intent	邱 波 也 很 帮 棒 ！ 不 哭 Q A Q	o o o o o o o o o o o o
+chat_domain	chat_intent	就 是 第 一 个 ， 我 最 不 爽 了	o o o o o o o o o o o
+chat_domain	chat_intent	韵 儿 现 在 在 深 港 澳 车 展 。 1 号 馆 。 东 风 日 产 N i s s a n 展 台 ☺ ☺ ☺ ❤ ❤ ❤	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	恭 喜 书 生 和 晓 黎 ， 祝 你 们 白 头 到 老	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	北 京 这 个 垃 圾 城 市 有 什 么 值 得 你 喜 欢 的 ？	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	白 虎 ！ 需 要 解 释 吗 ？ 。 不 需 要	o o o o o o o o o o o o o
+chat_domain	chat_intent	我 们 家 的 猫 咪 能 上 树 嘞 ！	o o o o o o o o o o o
+chat_domain	chat_intent	为 咩 不 能 吃 零 食 ？ 体 操 运 动 员 。 也 要 减 肥 嘛 ？	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	路 上 的 艰 辛 ， 无 需 抱 怨 ！	o o o o o o o o o o o
+chat_domain	chat_intent	嘻 嘻 伯 伯 加 油 吧 ！	o o o o o o o o
+chat_domain	chat_intent	好 美 啊 ！ 身 材 和 衣 服 ！	o o o o o o o o o o
+chat_domain	chat_intent	香 蕉 冰 棒 那 个 绝 对 不 好 用	o o o o o o o o o o o
+chat_domain	chat_intent	难 道 没 人 看 出 来 这 个 是 佰 草 集 的 软 文 么	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	切 ！ 你 要 和 我 和 解 我 还 不 和 你 这 种 豆 腐 脑 咸 党 和 解 呢 ！	o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	即 使 不 写 作 ， 也 是 思 考 的 好 日 子 。	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	辄 到 底 是 要 走 还 是 刚 回 来 呀	o o o o o o o o o o o o
+chat_domain	chat_intent	阳 光 灿 烂 看 了 N 遍 的 路 过	o o o o o o o o o o o
+chat_domain	chat_intent	还 有 没 有 啊 ， 期 待 发 更 新 图 片 ， 给 我 带 来 新 的 惊 喜 ！	o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	真 心 希 望 你 有 个 好 归 宿	o o o o o o o o o o
+chat_domain	chat_intent	抓 紧 行 动 吧 ， 瞧 小 日 本 那 得 瑟 样 ！	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	抬 爪 就 可 以 被 自 己 萌 到 。	o o o o o o o o o o o
+chat_domain	chat_intent	+ 我 一 个 把 我 也 想 看	o o o o o o o o o
+chat_domain	chat_intent	看 来 吃 是 最 重 要 的 ， 看 看 它 嘴 喙 的 重 量 和 体 积 就 知 道 了 。	o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	照 片 上 看 ， 有 点 上 火 。	o o o o o o o o o o
+chat_domain	chat_intent	原 来 你 手 上 的 都 是 肥 肉 哦	o o o o o o o o o o o
+chat_domain	chat_intent	刘 翔 ， 躺 着 也 受 伤 ！ 看 来 真 的 不 好 当 ！	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 操 你 大 爷 的 。 吓 到 哥 了	o o o o o o o o o o o
+chat_domain	chat_intent	买 了 仙 剑 i O S 版 的 人 为 啥 不 去 打 1 星 呢 。	o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	每 日 一 萌 〜 已 经 很 有 大 猫 的 样 儿 啦	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	有 樱 花 就 有 赏 花 的 喵 星 人 呀 ， 喵 星 人 呢 ？	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	原 来 我 们 宿 舍 俩 龙 哥	o o o o o o o o o
+chat_domain	chat_intent	最 后 那 只 ， 你 那 是 舌 头 吗 。 好 短 呀 ， 哈 哈	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	爽 妞 传 个 靓 照 热 爱 体 育 的 屌 丝 们 就 能 过 个 好 年	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	腾 讯 携 手 卡 巴 斯 基 进 军 手 机 安 全 领 域 a l i n k	o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	给 你 若 干 鸟 窝 、 牛 奶 ， 还 有 饼 干 ， 看 看 能 孵 化 出 什 么 ？	o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	铁 通 ， 呵 呵 。 第 一 次 装 宽 带 就 是 铁 通 ， 然 后 我 就 再 也 不 相 信 爱 情 了	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	巴 乔 做 瓜 的 助 教 ？ 合 适 吗 ？	o o o o o o o o o o o o
+chat_domain	chat_intent	确 实 很 冷 ， 还 是 转 个 。	o o o o o o o o o o
+chat_domain	chat_intent	咬 死 吐 掉 ， 再 + 唾 沫 一 口 ！	o o o o o o o o o o o o
+chat_domain	chat_intent	很 清 爽 的 感 觉 ， 就 是 夏 天 啦 ！	o o o o o o o o o o o o o
+chat_domain	chat_intent	怎 么 都 嫌 房 价 高 ， 都 又 怕 房 价 跌 ？	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	不 是 哭 泣 ， 不 是 叹 息 ， 是 为 了 城 市 的 良 心 准 备 着 下 一 次 的 转 身 。	o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	这 样 说 话 就 没 法 继 续 聊 天 了 ！	o o o o o o o o o o o o o
+chat_domain	chat_intent	孩 纸 该 担 心 的 是 自 己	o o o o o o o o o
+chat_domain	chat_intent	吃 饭 时 ， 禅 即 在 饭 里 。 专 心 吃 饭 ， 才 是 悟 道 参 禅 。	o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	哈 哈 ， 希 望 按 这 样 重 拍 一 张	o o o o o o o o o o o o
+chat_domain	chat_intent	我 也 知 道 为 什 么 我 现 在 还 没 有 睡 了	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	毕 竟 是 清 华 大 学 博 士 嘛 。	o o o o o o o o o o o
+chat_domain	chat_intent	沃 勒 个 擦 ， 太 霸 气 了	o o o o o o o o o
+chat_domain	chat_intent	不 知 道 U S B 接 口 会 怎 么 说 ？	o o o o o o o o o o o o o
+chat_domain	chat_intent	每 一 处 都 如 诗 如 画 。	o o o o o o o o o
+chat_domain	chat_intent	看 图 不 说 话 ！ 【 卖 豆 腐 脑 的 小 男 孩 】	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 们 都 是 叫 他 龙 兄 的 “ 隆 胸 ”	o o o o o o o o o o o o o
+chat_domain	chat_intent	这 话 确 实 很 犀 利 ， 赞	o o o o o o o o o
+chat_domain	chat_intent	好 可 爱 ！ 什 么 来 的 ？	o o o o o o o o o
+chat_domain	chat_intent	鄙 视 那 些 抹 黑 贝 志 诚 的	o o o o o o o o o o
+chat_domain	chat_intent	喵 星 人 你 能 再 懒 点 吗 ？	o o o o o o o o o o
+chat_domain	chat_intent	小 葱 煎 豆 腐 ， 蒸 槐 花	o o o o o o o o o
+chat_domain	chat_intent	不 以 结 婚 为 目 地 的 谈 恋 爱 ， 都 是 在 替 别 人 训 练 老 公 。	o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	麻 婆 ： 要 像 爱 护 树 木 一 样 爱 护 切 丝	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	最 后 一 个 亲 中 毒 了 。	o o o o o o o o o
+chat_domain	chat_intent	女 人 有 时 候 对 自 己 就 得 狠 一 点 儿	o o o o o o o o o o o o o o
+chat_domain	chat_intent	好 多 我 都 说 诶 ， 完 了 ， 别 人 是 得 有 多 不 爽 我	o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	有 丰 子 恺 的 味 道 ： ）	o o o o o o o o o
+chat_domain	chat_intent	这 个 笑 爆 了 啊 ， 看 来 剑 盾 组 合 不 是 苹 果 未 来 的 发 展 方 向 啊	o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	大 家 赶 紧 去 微 博 搜 索 香 港	o o o o o o o o o o o
+chat_domain	chat_intent	明 显 就 是 七 系 ， 型 号 不 知 道 了 ， 霸 气 ，	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	依 然 想 念 破 烂 的 莆 田 学 院 。	o o o o o o o o o o o o
+chat_domain	chat_intent	！ 我 读 高 中 就 是 因 为 这 个 原 因 遭 车 撞 了 ！ N N D ！	o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	无 法 收 养 你 ， 我 也 很 悲 伤	o o o o o o o o o o o
+chat_domain	chat_intent	有 些 路 ， 需 要 一 个 人 走	o o o o o o o o o o
+chat_domain	chat_intent	居 然 没 有 剪 刀 手 － 爱 德 华	o o o o o o o o o o o
+chat_domain	chat_intent	。 大 晚 上 看 到 这 个 。	o o o o o o o o o
+chat_domain	chat_intent	? ? 肉 都 给 狗 狗 吃 呢 🐶	o o o o o o o o o o
+chat_domain	chat_intent	他 妈 的 ， 怎 么 能 句 句 心 声 ！	o o o o o o o o o o o o
+chat_domain	chat_intent	累 了 ， 。 真 的 累 了 。	o o o o o o o o o
+chat_domain	chat_intent	怎 么 今 天 这 么 晚 才 吃 呢	o o o o o o o o o o
+chat_domain	chat_intent	湘 姐 怎 么 这 么 高 兴 呢 ， 说 出 来 也 让 我 们 开 心 开 心 呗	o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	老 潘 拍 摄 的 角 度 更 漂 亮	o o o o o o o o o o
+chat_domain	chat_intent	人 家 想 看 小 哥 的 两 指 奇 长 的 手 。	o o o o o o o o o o o o o o
+chat_domain	chat_intent	每 天 大 量 冷 知 识 ， 冷 笑 话 与 你 分 享 。 喜 欢 就 关 注 我 吧 ！	o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	只 是 去 封 盖 ， 封 没 封 到 再 说	o o o o o o o o o o o o
+chat_domain	chat_intent	我 们 才 十 几 天 哪 要 两 年 寒 假 才 凑 得 够 3 3 天	o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	看 到 说 顺 序 错 了 ， 瞬 间 天 亮 了 。	o o o o o o o o o o o o o o
+chat_domain	chat_intent	哈 哈 ， 羊 肉 多 少 钱 一 窜	o o o o o o o o o o
+chat_domain	chat_intent	这 么 猛 的 域 名 网 站 你 会 上 么 。 a l i n k	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	据 说 k e y 一 天 一 枚 谁 能 拥 有 啊	o o o o o o o o o o o o o o
+chat_domain	chat_intent	这 是 咬 断 脖 子 的 节 奏 啊	o o o o o o o o o o
+chat_domain	chat_intent	那 时 去 没 那 么 漂 亮 啊 ， 而 且 还 是 晚 上 ， 那 个 人 多 啊 简 直 是 人 逼 人	o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	面 相 上 厚 嘴 唇 的 男 人 怎 样 ？	o o o o o o o o o o o o
+chat_domain	chat_intent	今 天 见 了 顾 森 ， 应 该 让 他 开 微 博 来 解 析 。	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	每 天 早 上 九 点 半 准 时 在 饭 堂 出 现 原 来 我 是 要 准 备 吃 中 饭 了	o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	与 时 俱 进 的 也 忒 快 乐 啊	o o o o o o o o o o
+chat_domain	chat_intent	猫 星 人 越 来 越 聪 明 了	o o o o o o o o o
+chat_domain	chat_intent	两 个 人 在 一 起 ， 做 什 么 都 甜 蜜 。 互 粉 哦 亲 们 。	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	- - 。 好 可 怕 的 说 。 ！ 吓 到 银 家 了 ！	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	这 教 主 是 死 亡 骑 士 的 造 型 吗 ？	o o o o o o o o o o o o o
+chat_domain	chat_intent	看 不 懂 优 米 网 的 盈 利 模 式 。	o o o o o o o o o o o o
+chat_domain	chat_intent	啪 啪 啪 好 几 岁 都 过 去 了 。	o o o o o o o o o o o
+chat_domain	chat_intent	C C T V 从 来 都 不 说 人 话 。	o o o o o o o o o o o o
+chat_domain	chat_intent	龙 哥 不 记 得 ， 凤 姐 都 有 吧 ？	o o o o o o o o o o o o
+chat_domain	chat_intent	丽 江 都 是 好 人 ！ 丽 江 粑 粑 最 好 吃 ！ 香 格 里 拉 最 美 丽 ！ 我 想 念 云 南 ！	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 觉 得 我 姐 应 该 不 知 道 做 。	o o o o o o o o o o o o
+chat_domain	chat_intent	其 实 大 人 也 有 这 样 子 的 心 理	o o o o o o o o o o o o
+chat_domain	chat_intent	假 的 根 本 就 没 有 这 么 清 澈 太 假 了 坑 爹 啊	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	别 跟 哥 聊 天 。 哥 让 你 不 爽 。	o o o o o o o o o o o o
+chat_domain	chat_intent	好 好 训 练 期 待 你 的 好 表 现	o o o o o o o o o o o
+chat_domain	chat_intent	是 因 为 双 胞 胎 ？ 还 是 因 为 迟 到 ？	o o o o o o o o o o o o o o
+chat_domain	chat_intent	吃 蘑 菇 精 不 过 您 不 喜 欢 吃 菇 类	o o o o o o o o o o o o o
+chat_domain	chat_intent	最 喜 欢 宜 家 的 儿 童 房 了	o o o o o o o o o o
+chat_domain	chat_intent	为 啥 我 从 安 久 脸 上 看 出 了 r o c k y 哥 的 神 韵	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	吊 丝 终 于 找 到 女 神 了	o o o o o o o o o
+chat_domain	chat_intent	山 无 陵 天 地 合 才 敢 与 君 绝	o o o o o o o o o o o
+chat_domain	chat_intent	好 多 人 在 杨 坤 的 微 博 里 谩 骂	o o o o o o o o o o o o
+chat_domain	chat_intent	他 和 常 凯 申 先 生 必 须 出 现 在 同 一 个 时 空 。 既 生 瑜 ， 也 生 亮 。	o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	哥 你 这 是 在 国 外 还 是 自 己 种 的 啊	o o o o o o o o o o o o o o
+chat_domain	chat_intent	介 是 芙 蓉 么 ？ 不 敢 相 信 自 己 的 眼 睛 ！	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	人 类 还 得 跟 老 祖 先 学 习 ： 量 力 而 行 ， 勿 有 贪 念 。	o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	都 好 好 看 的 ， 各 种 美 啊 ！	o o o o o o o o o o o
+chat_domain	chat_intent	我 也 相 信 是 这 样 的 。	o o o o o o o o o
+chat_domain	chat_intent	头 一 次 了 解 到 夏 天 也 可 以 有 这 样 的 味 道	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	岂 是 一 个 好 能 表 达 的	o o o o o o o o o
+chat_domain	chat_intent	一 开 始 很 晕 ， 后 来 定 睛 一 看 。 喷 啦	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	书 法 ？ 节 节 喜 欢 书 法 吗 ？ 我 们 聊 聊 啊 ！ 真 的 ！	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	何 解 ？ 到 底 何 时 破 ？	o o o o o o o o o
+chat_domain	chat_intent	肥 仔 ， 你 怎 么 不 去 死 ！	o o o o o o o o o o
+chat_domain	chat_intent	小 伙 子 这 是 在 哪 里 喔 ？	o o o o o o o o o o
+chat_domain	chat_intent	有 趣 ， 在 幼 儿 园 就 可 爱 了	o o o o o o o o o o o
+chat_domain	chat_intent	胖 子 ， 好 样 的 。 姜 戈 到 底 能 不 能 被 解 放 ？	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	徐 老 师 ， 有 氧 运 动 瘦 下 来 以 后 的 肥 胖 纹 能 否 减 淡 或 消 除 呢 ？ 谢 谢	o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	以 爱 之 名 开 始 ， 以 爱 之 名 结 束 。 入 戏 太 深 那 个 。 傻 逼 了 。	o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	有 点 个 人 崇 拜 了 ， 陈 主 席 万 岁 ！ 照 片 再 好 也 不 适 宜 放 此 。	o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 家 宝 宝 眼 睛 也 好 大 ， 你 们 留 意 就 看 到 了	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	对 我 朝 官 员 的 一 种 讽 刺	o o o o o o o o o o
+chat_domain	chat_intent	办 事 是 容 易 的 不 值 得 信 任 的 人 再 次 办 事 不 可 能 的	o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	电 视 把 人 的 想 像 力 给 扼 杀 了	o o o o o o o o o o o o
+chat_domain	chat_intent	悄 悄 看 了 一 眼 • • • •	o o o o o o o o o o
+chat_domain	chat_intent	最 后 那 个 。 是 中 毒 了 么 。	o o o o o o o o o o o
+chat_domain	chat_intent	死 刑 悖 论 ： 支 持 死 刑 的 人 都 应 该 被 吊 死 ！	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	唉 ， 再 看 看 我 们 的 这 破 办 公 室 。	o o o o o o o o o o o o o o
+chat_domain	chat_intent	这 个 点 我 已 经 下 班 在 路 上	o o o o o o o o o o o
+chat_domain	chat_intent	我 家 w i f i 也 没 有 设 密 码 ， 不 知 道 邻 居 有 没 有 偷 网 ， 不 过 有 时 候 很 慢 。	o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	为 什 么 总 要 呈 现 两 种 不 同 的 表 现 呢	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	露 西 亚 才 不 需 要 同 伴 ， 露 西 亚 有 伏 特 加 就 够 了	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	姐 姐 ， 人 太 多 了 我 找 不 到 你 。 求 限 量 版 手 机 壳 快 递 。	o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	梦 想 不 在 这 里 ， 就 不 算 逃 跑 了 吧	o o o o o o o o o o o o o o
+chat_domain	chat_intent	应 该 比 比 谁 的 舌 头 最 长 ， a n g e l 排 第 一 。	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	# 1 9 5 2 年 # 的 人 文 社 会 学 科 啊	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	玮 玮 不 参 加 大 理 音 乐 节 ？	o o o o o o o o o o o
+chat_domain	chat_intent	死 也 不 信 呀 ！ 这 是 幻 想 的 吧	o o o o o o o o o o o o
+chat_domain	chat_intent	确 实 是 被 门 槛 给 挡 住 了	o o o o o o o o o o
+chat_domain	chat_intent	和 我 们 工 作 服 一 个 颜 色 哈 哈 。	o o o o o o o o o o o o o
+chat_domain	chat_intent	看 到 这 图 好 想 打 过 去	o o o o o o o o o
+chat_domain	chat_intent	除 了 房 子 卖 便 宜 了 ， 其 他 基 本 都 实 现 了 。	o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	让 我 想 到 了 垃 圾 垃 圾 君 。	o o o o o o o o o o o
+chat_domain	chat_intent	点 解 唔 街 拍 D 美 女 睇 睇 呢	o o o o o o o o o o o
+chat_domain	chat_intent	看 来 这 皇 上 后 宫 很 充 实 啊 ！ 挖 鼻 屎 ]	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	现 在 才 第 一 轮 ， 有 没 那 么 早 下 定 论 啊	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	这 是 给 自 己 扣 绿 帽 儿 ？	o o o o o o o o o o
+chat_domain	chat_intent	可 耐 的 C 小 姐 生 快 🎂 🎂 🎂 🎂 🎂 🎂	o o o o o o o o o o o o o o
+chat_domain	chat_intent	我 感 动 得 不 能 自 我 。	o o o o o o o o o
+chat_domain	chat_intent	前 一 段 时 间 还 说 这 个 改 革 ， 那 个 改 革 ， 原 来 都 是 这 么 改 的 ！	o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	。 高 中 数 学 没 毕 业 过 的 路 过 。	o o o o o o o o o o o o o
+chat_domain	chat_intent	大 家 都 转 ， 我 也 跟 风 转 一 个 。 让 更 多 宅 男 享 受 到 福 利 吧 。	o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	魂 斗 罗 呀 ， 还 有 超 级 玛 丽 呢 ？	o o o o o o o o o o o o o
+chat_domain	chat_intent	不 是 吧 ， 可 能 今 天 太 冷 了 ， 就 是 火 大 了	o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	大 宝 好 像 忘 记 算 时 差 了 吧 ？	o o o o o o o o o o o o
+chat_domain	chat_intent	原 来 机 场 的 平 地 电 梯 还 可 以 这 么 玩 ！	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	可 以 享 受 孤 独 的 人 一 定 是 充 实 并 且 内 心 强 大 的	o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	升 斗 小 民 只 求 知 足 ！	o o o o o o o o o
+chat_domain	chat_intent	是 啊 ， 完 全 做 到 是 很 不 容 易 的	o o o o o o o o o o o o o
+chat_domain	chat_intent	请 遵 循 心 中 真 实 的 意 愿 ！ a l i n k	o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	比 火 腿 肠 更 精 悍 生 动 的 图 解 ！	o o o o o o o o o o o o o
+chat_domain	chat_intent	不 行 了 这 个 笑 死 我 了 我 也 做 一 个 ！	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	终 于 知 道 是 哪 个 公 司 的 脑 残 广 告 。 吓 死 人 偿 命 吗 ？	o o o o o o o o o o o o o o o o o o o o o o

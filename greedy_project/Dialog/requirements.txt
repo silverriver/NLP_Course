@@ -1,0 +1,7 @@
+wheel
+torch
+google-api-python-client
+transformers
+attrdict
+tensorboard
+elasticsearch

@@ -1,0 +1,615 @@
+cinemas	QUERY	查 询 众 乐 电 影 院 最 热 门 的 电 影	o o b-theatre i-theatre i-theatre i-theatre i-theatre o o o o o o
+translation	TRANSLATION	腿 英 文 怎 么 说	b-content b-target i-target o o o
+cookbook	QUERY	凉 菜 是 怎 么 做 的 ？	b-keyword i-keyword o o o o o o
+cookbook	QUERY	西 红 柿 炒 鸡 蛋 做 法 。	b-dishName i-dishName i-dishName i-dishName i-dishName i-dishName o o o
+cookbook	QUERY	烧 鸡 块 怎 么 做 ？	o b-ingredient i-ingredient o o o o
+music	PLAY	胡 歌 忘 记 时 间	b-artist i-artist b-song i-song i-song i-song
+news	PLAY	美 国 最 近 有 什 么 新 闻	b-location_country i-location_country b-datetime_date i-datetime_date o o o o o
+train	QUERY	查 宁 波 到 北 京 的 火 车 票	o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o o
+translation	TRANSLATION	我 正 在 睡 觉 用 英 语 怎 么 说	b-content i-content i-content i-content i-content o b-target i-target o o o
+map	POSITION	我 们 现 在 在 什 么 地 方	o o o o o o o o o
+epg	QUERY	1 2 月 9 日 北 京 卫 视 节 目 单	b-datetime_date i-datetime_date i-datetime_date i-datetime_date i-datetime_date b-tvchannel i-tvchannel i-tvchannel i-tvchannel o o o
+translation	TRANSLATION	中 国 移 动 通 信 的 英 语 怎 么 说	b-content i-content i-content i-content i-content i-content o b-target i-target o o o
+epg	QUERY	昨 天 晚 上 湖 南 卫 视 演 什 么	b-datetime_date i-datetime_date b-datetime_time i-datetime_time b-tvchannel i-tvchannel i-tvchannel i-tvchannel o o o
+cookbook	QUERY	猪 肚 鸡 怎 么 做 啊 ？	b-dishName i-dishName i-dishName o o o o o
+tvchannel	PLAY	我 要 看 云 南 二 台	o o o b-name i-name i-name i-name
+riddle	QUERY	动 物 谜 语 。	b-category i-category i-category i-category o
+train	QUERY	郑 州 到 许 昌 的 火 车	b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+chat_domain	chat_intent	1 2 天 没 有 新 闻 联 播 打 卡 的 人 ！	o o o o o o o o o o o o o o
+train	QUERY	查 询 泉 州 到 上 海 的 动 车 票	o o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o b-category i-category o
+riddle	QUERY	打 一 个 灯 谜 啊 ， 你 。	o o o b-category i-category o o o o
+video	QUERY	最 近 有 什 么 好 看 得	b-timeDescr i-timeDescr o o o b-scoreDescr i-scoreDescr o
+cookbook	QUERY	夫 妻 肺 片 怎 么 做 ？	b-dishName i-dishName i-dishName i-dishName o o o o
+app	LAUNCH	百 度 百 科	b-name i-name i-name i-name
+cookbook	QUERY	胡 萝 卜 怎 么 炒 好 吃 ？	b-ingredient i-ingredient i-ingredient o o o o o o
+chat_domain	chat_intent	我 们 家 的 猫 咪 能 上 树 嘞 ！	o o o o o o o o o o o
+flight	QUERY	明 天 珠 海 到 青 岛 的 航 班	b-startDate_date i-startDate_date b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+tvchannel	PLAY	找 河 南 卫 视	o b-name i-name i-name i-name
+map	POSITION	辽 宁 大 连 在 哪 里	b-location_province i-location_province b-location_city i-location_city o o o
+chat_domain	chat_intent	终 于 找 到 我 失 眠 的 原 因 了 。 嘿 嘿 。	o o o o o o o o o o o o o o o
+news	PLAY	占 田 你 给 我 放 一 下 最 近 的 新 闻 。	o o o o o o o o b-datetime_date i-datetime_date o o o o
+translation	TRANSLATION	香 蕉 用 英 语 怎 么 讲	b-content i-content o b-target i-target o o o
+music	SEARCH	搜 索 电 视 剧 插 曲	o o b-category i-category i-category i-category i-category
+video	QUERY	光 阴	b-name i-name
+chat_domain	chat_intent	哥 都 开 学 快 半 个 月 了	o o o o o o o o o
+epg	QUERY	等 一 下 七 点 半 湖 南 卫 视 会 播 出 什 么 节 目	o o o b-datetime_time i-datetime_time i-datetime_time b-tvchannel i-tvchannel i-tvchannel i-tvchannel o o o o o o o
+chat_domain	chat_intent	如 果 一 口 把 这 人 吞 了	o o o o o o o o o
+news	PLAY	讯 飞 语 音 我 想 知 道 山 东 省 东 营 市 今 天 的 新 闻 。	o o o o o o o o b-location_province i-location_province i-location_province b-location_city i-location_city i-location_city b-datetime_date i-datetime_date o o o o
+bus	QUERY	温 州 到 上 海 的 车 。	b-Src i-Src o b-Dest i-Dest o o o
+flight	QUERY	查 询 广 州 到 海 南 的 航 班	o o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+translation	TRANSLATION	星 期 天 早 晨 我 们 一 起 去 打 篮 球 英 语 怎 么 说	b-content i-content i-content i-content i-content i-content i-content i-content i-content i-content i-content i-content i-content b-target i-target o o o
+epg	QUERY	最 近 下 午 有 什 么 电 影 ？	o o b-datetime_time i-datetime_time o o o b-category i-category o
+chat_domain	chat_intent	与 时 俱 进 的 也 忒 快 乐 啊	o o o o o o o o o o
+app	LAUNCH	开 启 q q	o o b-name i-name
+map	ROUTE	去 深 圳 怎 么 坐 车 ？	o b-endLoc_city i-endLoc_city o o o o o
+chat_domain	chat_intent	好 可 爱 ！ 什 么 来 的 ？	o o o o o o o o o
+health	QUERY	痛 经 。	b-keyword i-keyword o
+map	POSITION	湖 里 公 园 在 哪 里	b-location_poi i-location_poi i-location_poi i-location_poi o o o
+chat_domain	chat_intent	孩 纸 该 担 心 的 是 自 己	o o o o o o o o o
+riddle	QUERY	也 来 个 灯 谜 吗 ？	o o o b-category i-category o o
+contacts	QUERY	周 慧 的 电 话 。	b-name i-name o o o o
+epg	QUERY	找 找 非 诚 勿 扰 什 么 时 候 结 束	o o b-name i-name i-name i-name o o o o o o
+video	QUERY	我 想 看 爱 情 闯 进 门	o o o b-name i-name i-name i-name i-name
+radio	LAUNCH	打 开 安 徽 交 通 台	o o b-name i-name i-name i-name i-name
+website	OPEN	打 开 索 尼 官 方 网 站	o o b-name i-name o o o o
+poetry	QUERY	背 首 杜 甫 的 诗 啊 ？	o o b-author i-author o o o o
+cookbook	QUERY	鸡 怎 么 做 才 好 吃 ？	b-ingredient o o o o o o o
+app	QUERY	帮 我 搜 索 三 国 杀	o o o o b-name i-name i-name
+chat_domain	chat_intent	哈 哈 。 挺 生 动 的 ， 支 持 一 下 。	o o o o o o o o o o o o o
+app	LAUNCH	我 想 上 q q	o o o b-name i-name
+chat_domain	chat_intent	肥 仔 ， 你 怎 么 不 去 死 ！	o o o o o o o o o o
+cookbook	QUERY	刘 林 面 怎 么 做 啊 ？	o o b-ingredient o o o o o
+poetry	QUERY	念 一 首 唐 诗 给 我 听 。	o o o b-dynasty o o o o o
+telephone	QUERY	张 培 的 电 话 号 码 是 多 少	b-name i-name o o o o o o o o
+poetry	QUERY	背 诵 唐 诗 三 百 首 静 夜 思 。	o o b-dynasty o o o o b-name i-name i-name o
+train	QUERY	帮 我 查 一 下 广 州 到 深 圳 的 火 车	o o o o o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+translation	TRANSLATION	出 租 车 的 英 文 怎 么 说	b-content i-content i-content o b-target i-target o o o
+flight	QUERY	八 月 十 九 号 到 成 都 的 航 班	b-startDate_date i-startDate_date i-startDate_date i-startDate_date i-startDate_date o b-endLoc_city i-endLoc_city o o o
+train	QUERY	重 庆 到 无 锡 的 火 车 票	b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o o
+cookbook	QUERY	金 酱 肉 丝 的 做 法	b-dishName i-dishName i-dishName i-dishName o o o
+telephone	DIAL	打 电 话 给 胖 头	o o o o b-name i-name
+translation	TRANSLATION	今 天 的 天 气 真 是 好 用 英 语 怎 么 说	b-content i-content i-content i-content i-content i-content i-content i-content o b-target i-target o o o
+music	PLAY	我 想 听 世 上 只 有 妈 妈 好 这 首 歌 。	o o o b-song i-song i-song i-song i-song i-song i-song o o o o
+flight	QUERY	7 月 2 5 号 去 上 海 的 航 班 。	b-startDate_date i-startDate_date i-startDate_date i-startDate_date i-startDate_date o b-endLoc_city i-endLoc_city o o o o
+music	PLAY	我 要 听 劝 化 这 首 歌	o o o b-song i-song o o o
+news	PLAY	有 什 么 重 要 新 闻 吗 ？	o o o b-category i-category o o o o
+epg	QUERY	湖 南 卫 视 节 目 录	b-tvchannel i-tvchannel i-tvchannel i-tvchannel o o o
+telephone	DIAL	打 电 话 给 张 志 国	o o o o b-name i-name i-name
+website	OPEN	聚 友 网	b-name i-name i-name
+stock	QUERY	真 达 林 业 的 股 票 怎 么 样	b-name i-name i-name i-name o o o o o o
+chat_domain	chat_intent	拿 别 人 的 身 体 取 乐 ， 鄙 视 ！	o o o o o o o o o o o o
+match	QUERY	中 超 比 赛 时 间 ， 我 。	b-category i-category o o o o o o o
+poetry	QUERY	落 花 不 是 无 情 物 的 下 一 句 是 什 么 ？	b-keyword i-keyword i-keyword i-keyword i-keyword i-keyword i-keyword o b-queryField i-queryField i-queryField o o o o
+video	QUERY	福 尔 摩 斯	b-name i-name i-name i-name
+telephone	DIAL	打 电 话 给 斌 少	o o o o b-name i-name
+poetry	DEFAULT	你 好 啊 ， 再 背 首 诗 。	o o o o o o o o o
+match	QUERY	中 超 的 比 赛 时 间 。	b-category i-category o o o o o o
+stock	QUERY	泰 山 石 油 股 票	b-name i-name i-name i-name o o
+cookbook	QUERY	豆 腐 花 的 做 法 。	b-dishName i-dishName i-dishName o o o o
+website	OPEN	开 网 页	o o o
+website	OPEN	打 开 苹 果 香 港 官 方 网 站	o o b-name i-name i-name i-name i-name i-name i-name i-name
+message	SEND	给 查 乐 发 短 信	o b-name i-name o o o
+cookbook	QUERY	哈 哈 ， 吃 了 水 煮 鱼 怎 么 做 ？	o o o o o b-dishName i-dishName i-dishName o o o o
+train	QUERY	查 一 下 南 京 到 上 海 的 火 车 注 意 谢 谢	o o o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o o o o o
+flight	QUERY	去 伦 敦 的 航 班	o b-endLoc_city i-endLoc_city o o o
+telephone	DIAL	打 石 宝 电 话	o b-name i-name o o
+video	QUERY	汉 武 大 帝	b-name i-name i-name i-name
+poetry	QUERY	家 ， 背 首 沁 园 春 雪 。	o o o o b-name i-name i-name i-name o
+chat_domain	chat_intent	不 知 道 U S B 接 口 会 怎 么 说 ？	o o o o o o o o o o o o o
+tvchannel	PLAY	游 戏 竞 技 频 道	b-name i-name i-name i-name i-name i-name
+chat_domain	chat_intent	第 三 位 你 是 怎 么 混 进 去 的 ！	o o o o o o o o o o o o
+music	PLAY	我 叫 小 沈 阳 这 首 歌	b-song i-song i-song i-song i-song o o o
+poetry	QUERY	背 诵 一 首 唐 诗	o o o o b-dynasty o
+music	PLAY	播 放 上 海 滩 。	o o b-song i-song i-song o
+flight	QUERY	4 月 2 8 号 上 海 到 南 昌 的 航 班	b-startDate_date i-startDate_date i-startDate_date i-startDate_date i-startDate_date b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+cookbook	QUERY	王 志 排 骨 怎 么 做	o o b-ingredient i-ingredient o o o
+video	QUERY	查 找 电 影	o o b-category i-category
+stock	QUERY	今 天 上 证 指 数 是 几 点	o o b-name i-name i-name i-name o o o
+chat_domain	chat_intent	喵 星 人 你 能 再 懒 点 吗 ？	o o o o o o o o o o
+train	QUERY	宿 州 到 北 京 的 火 车 有 哪 些	b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o o o o
+website	OPEN	摩 尔 勇 士	b-name i-name i-name i-name
+app	LAUNCH	打 开 q q 同 步 助 手	o o b-name i-name i-name i-name i-name i-name
+stock	QUERY	中 水 渔 业 的 股 票	b-name i-name i-name i-name o o o
+cookbook	QUERY	请 问 意 大 利 面 怎 么 做	o o b-dishName i-dishName i-dishName i-dishName o o o
+cookbook	QUERY	小 军 儿 炖 土 豆 该 怎 么 做 ？	o o o b-dishName i-dishName i-dishName o o o o o
+video	QUERY	我 要 看 综 艺	o o o b-tag i-tag
+cookbook	QUERY	花 格 等 蛋 的 做 法 。	o o o b-ingredient o o o o
+news	PLAY	泰 州 新 闻 。	b-location_city i-location_city o o o
+epg	QUERY	现 在 湖 南 卫 视 放 什 么 电 视 ？	b-datetime_time i-datetime_time b-tvchannel i-tvchannel i-tvchannel i-tvchannel o o o o o o
+cookbook	QUERY	豆 豉 鲮 鱼 油 麦 菜	b-dishName i-dishName i-dishName i-dishName i-dishName i-dishName i-dishName
+email	FORWARD	我 想 要 转 发 这 条 邮 件	o o o o o o o o o
+map	ROUTE	上 海 到 苏 州	b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city
+epg	QUERY	哪 个 电 视 台 在 演 叶 问 。	o o o o o o o b-name i-name o
+message	SEND	我 要 发 信 息 给 高 鹤 航	o o o o o o b-name i-name i-name
+translation	TRANSLATION	我 们 一 起 去 玩 吧 用 英 文 怎 么 说	b-content i-content i-content i-content i-content i-content i-content o b-target i-target o o o
+poetry	QUERY	来 首 归 家 。	o o b-name i-name o
+news	PLAY	查 一 下 今 天 早 上 的 新 闻 。	o o o b-datetime_date i-datetime_date b-datetime_time i-datetime_time o o o o
+lottery	NUMBER_QUERY	本 期 七 星 彩 的 中 奖 号 码 是 多 少 ？	o o b-name i-name i-name o o o o o o o o o
+cookbook	QUERY	炖 鲢 鱼 怎 么 做 ？	b-dishName i-dishName i-dishName o o o o
+novel	QUERY	搜 一 下 小 说 。	o o o o o o
+cookbook	QUERY	黄 豆 猪 蹄 汤 。	b-dishName i-dishName i-dishName i-dishName i-dishName o
+cookbook	QUERY	啊 ， 青 椒 炒 蛋 。	o o b-dishName i-dishName i-dishName i-dishName o
+novel	QUERY	我 要 看 军 事 武 侠 小 说	o o o b-category i-category i-category i-category o o
+message	SEND	给 刘 志 发 短 信	o b-name i-name o o o
+chat_domain	chat_intent	哈 哈 哈 哈 ， 小 日 本 弄 死 你 ！	o o o o o o o o o o o o
+poetry	QUERY	来 i s ， 来 一 首 采 莲 。	o o o o o o o b-name i-name o
+translation	TRANSLATION	你 怎 么 了 英 文 怎 么 讲	b-content i-content i-content i-content b-target i-target o o o
+chat_domain	chat_intent	我 说 句 不 太 那 什 么 的 话 。 那 是 俩 男 的 么 ？	o o o o o o o o o o o o o o o o o o
+poetry	QUERY	我 想 听 首 唐 诗 。	o o o o b-dynasty o o
+poetry	QUERY	来 一 首 李 白 的 诗 。	o o o b-author i-author o o o
+riddle	QUERY	讲 一 个 谜 语 ， 啊 ， 你 ， 哦 。	o o o b-category i-category o o o o o o o
+chat_domain	chat_intent	过 日 子 帮 闵 行 区 版 图 很 m a t c h	o o o o o o o o o o o o o o o
+flight	QUERY	查 询 后 天 广 州 到 上 海 的 航 班	o o b-startDate_date i-startDate_date b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+match	QUERY	中 超 赛 事 预 告 吗 ？	b-category i-category o o o o o o
+chat_domain	chat_intent	办 事 是 容 易 的 不 值 得 信 任 的 人 再 次 办 事 不 可 能 的	o o o o o o o o o o o o o o o o o o o o o
+app	LAUNCH	启 动 浏 览 器	o o b-name i-name i-name
+chat_domain	chat_intent	好 美 的 植 物 ， 好 美 的 名 字 。	o o o o o o o o o o o o
+epg	QUERY	C C T V - 5 节 目 表	b-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel o o o
+cookbook	QUERY	干 锅 香 辣 虾	b-dishName i-dishName i-dishName i-dishName i-dishName
+train	QUERY	从 长 沙 到 北 京 的 列 车	o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+novel	QUERY	我 想 看 现 在 很 流 行 的 小 说	o o o o o o b-popularity i-popularity o o o
+video	QUERY	2 0 1 3 年 的 警 匪 电 视 剧	b-datetime_date i-datetime_date i-datetime_date i-datetime_date i-datetime_date o b-tag i-tag b-category i-category i-category
+radio	LAUNCH	请 帮 我 调 频 1 0 5 山 东 人 民 广 播 电 台 生 活 频 道	o o o o o b-code i-code i-code b-name i-name i-name i-name i-name i-name i-name i-name i-name i-name i-name i-name
+cinemas	QUERY	我 要 看 热 门 电 影 。	o o o o o o o o
+cookbook	QUERY	怎 么 做 馒 头	o o o b-dishName i-dishName
+health	QUERY	尿 道 炎 怎 么 办	b-keyword i-keyword i-keyword o o o
+chat_domain	chat_intent	二 逼 ， 牛 逼 ， 普 通 总 理	o o o o o o o o o o
+news	PLAY	搜 索 娱 乐 新 闻 。	o o b-category i-category o o o
+flight	QUERY	后 天 从 深 圳 到 成 都 的 航 班	b-startDate_date i-startDate_date o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+health	QUERY	得 了 艾 滋 病 怎 么 办	o o b-keyword i-keyword i-keyword o o o
+tvchannel	PLAY	江 苏 党 校 二 套	b-name i-name i-name i-name i-name i-name
+tvchannel	PLAY	帮 我 切 换 到 湖 南 卫 视	o o o o o b-name i-name i-name i-name
+chat_domain	chat_intent	唉 ， 再 看 看 我 们 的 这 破 办 公 室 。	o o o o o o o o o o o o o o
+chat_domain	chat_intent	好 有 创 意 啊 ！ 胖 子 们 快 加 油 减 肥 了 啊	o o o o o o o o o o o o o o o o
+epg	QUERY	北 京 生 活 频 道 节 目 单	b-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel o o o
+health	QUERY	得 了 灰 指 甲 怎 么 办 ？	o o b-keyword i-keyword i-keyword o o o o
+cookbook	QUERY	猪 肉 丸 子 汤 怎 么 做 啊 ？	b-dishName i-dishName i-dishName i-dishName i-dishName o o o o o
+cookbook	QUERY	虾 仁 饭 。	b-dishName i-dishName i-dishName o
+email	REPLY	我 要 答 复 邮 件	o o o o o o
+video	QUERY	热 血 动 漫	b-tag i-tag b-category i-category
+bus	QUERY	从 北 海 到 东 莞 的 汽 车 。	o b-Src i-Src o b-Dest i-Dest o o o o
+video	QUERY	最 美 的 时 光	b-name i-name i-name i-name i-name
+epg	QUERY	安 徽 卫 视 今 天 晚 上 放 什 么 ？	b-tvchannel i-tvchannel i-tvchannel i-tvchannel b-datetime_date i-datetime_date b-datetime_time i-datetime_time o o o o
+chat_domain	chat_intent	在 大 连 发 现 国 王 碰 到 过 你 一 次 希 望 在 哈 尔 滨 还 能 碰 到 你	o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	和 我 观 点 不 同 的 人 都 应 该 被 吊 死 ， 精 分 了	o o o o o o o o o o o o o o o o o o
+tvchannel	PLAY	高 清 广 东 台	b-resolution i-resolution b-name i-name i-name
+app	LAUNCH	打 开 熊 猫 看 书	o o b-name i-name i-name i-name
+chat_domain	chat_intent	不 用 这 么 狠 吧 过 得 更 好 比 较 重 要	o o o o o o o o o o o o o o
+music	PLAY	我 要 点 一 首 小 星 星	o o o o o b-song i-song i-song
+video	QUERY	中 国 新 声 代	b-name i-name i-name i-name i-name
+cookbook	QUERY	石 螺 怎 么 煮	b-ingredient i-ingredient o o o
+stock	QUERY	查 询 大 北 农 的 股 票	o o b-name i-name i-name o o o
+contacts	QUERY	哦 钢 结 构 的 电 话 是 多 少	b-name i-name i-name i-name o o o o o o
+website	OPEN	那 你 帮 我 打 开 百 度	o o o o o o b-name i-name
+music	PLAY	播 放 老 婆 最 大 。	o o b-song i-song i-song i-song o
+train	QUERY	明 天 到 合 肥 的 火 车	b-startDate_date i-startDate_date o b-endLoc_city i-endLoc_city o o o
+video	QUERY	我 想 看 电 影 搜 索	o o o b-category i-category b-name i-name
+flight	QUERY	贵 阳 到 哈 尔 滨 飞 机	b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city i-endLoc_city o o
+music	PLAY	来 首 快 乐 崇 拜	o o b-song i-song i-song i-song
+train	QUERY	烟 台 到 齐 齐 哈 尔 的 火 车 票	b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city i-endLoc_city i-endLoc_city o o o o
+cookbook	QUERY	请 问 红 烧 茄 子 怎 么 做 ？	o o b-dishName i-dishName i-dishName i-dishName o o o o
+poetry	QUERY	来 一 首 纳 兰 性 德 的 词 。	o o o b-author i-author i-author i-author o o o
+stock	QUERY	永 辉 超 市 股 份 的 价 格	b-name i-name i-name i-name o o o o o
+video	QUERY	欧 阳 震 华 的 罪 案 电 视 剧	b-artist i-artist i-artist i-artist o b-tag i-tag b-category i-category i-category
+translation	TRANSLATION	你 好 丑 用 英 文 怎 么 说	b-content i-content i-content o b-target i-target o o o
+chat_domain	chat_intent	这 尊 佛 至 少 省 去 香 火 钱 。	o o o o o o o o o o o
+cookbook	QUERY	怎 样 炒 肉 。	o o b-dishName i-dishName o
+tvchannel	PLAY	切 换 浦 口 新 闻 综 合 频 道	o o b-name i-name i-name i-name i-name i-name i-name i-name
+cookbook	QUERY	干 锅 鱼 怎 么 做	b-dishName i-dishName i-dishName o o o
+chat_domain	chat_intent	咸 豆 腐 脑 能 吃 ？ 怎 么 又 这 种 存 在 ？	o o o o o o o o o o o o o o o
+poetry	QUERY	背 将 进 酒 。	o b-name i-name i-name o
+cookbook	QUERY	怎 么 做 番 茄 汤	o o o b-dishName i-dishName i-dishName
+chat_domain	chat_intent	老 郭 也 是 细 皮 嫩 肉 的	o o o o o o o o o
+flight	QUERY	南 京 到 成 都 的 机 票	b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+health	QUERY	类 风 湿 怎 么 治 ？	b-keyword i-keyword i-keyword o o o o
+video	QUERY	美 国 热 门 的 恐 怖 电 影	b-area i-area b-popularity i-popularity o b-tag i-tag b-category i-category
+epg	QUERY	环 球 旅 游 明 天 有 演 我 爱 饭 米 粒	b-tvchannel i-tvchannel i-tvchannel i-tvchannel b-datetime_date i-datetime_date o o b-name i-name i-name i-name i-name
+app	LAUNCH	打 开 极 品 飞 车	o o b-name i-name i-name i-name
+chat_domain	chat_intent	嘻 嘻 伯 伯 加 油 吧 ！	o o o o o o o o
+train	QUERY	查 一 下 兰 州 到 成 都 的 火 车 票	o o o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o o
+chat_domain	chat_intent	辛 苦 了 ！ 妞 ， 回 家 好 好 过 年 吧 ！	o o o o o o o o o o o o o o
+map	ROUTE	查 一 下 到 长 途 汽 车 站 去 的 最 省 钱 的 线 路	o o o o b-endLoc_poi i-endLoc_poi i-endLoc_poi i-endLoc_poi i-endLoc_poi o o b-type i-type i-type o o o
+chat_domain	chat_intent	现 有 体 制 与 格 局 下 的 努 力 尝 试 ， 尽 力 当 活 马 医 。	o o o o o o o o o o o o o o o o o o o o o
+translation	TRANSLATION	用 英 语 怎 么 讲	b-content b-target i-target o o o
+news	PLAY	艾 莱 冈 给 我 点 新 闻 。	o o o o o o o o o
+train	QUERY	上 饶 到 南 昌 的 火 车 票	b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o o
+riddle	QUERY	来 个 字 谜 我 猜 一 下 。	o o b-category i-category o o o o o
+poetry	QUERY	来 首 唐 诗 小 池	o o b-dynasty o b-name i-name
+chat_domain	chat_intent	艾 玛 。 一 刷 新 第 一 条 就 是 个 这 〜 打 击 有 点 大 。	o o o o o o o o o o o o o o o o o o o o
+match	QUERY	我 想 看 足 球 中 超 ， 第 2 5 轮 的 比 赛 时 间 。	o o o o o b-category i-category o o o o o o o o o o o
+email	REPLY	我 要 回 复 这 条 邮 件	o o o o o o o o
+tvchannel	PLAY	央 3	b-name i-name
+translation	TRANSLATION	翻 译 牛	o o b-content
+video	QUERY	我 想 看 搞 定 岳 父 大 人 电 影	o o o b-name i-name i-name i-name i-name i-name b-category i-category
+chat_domain	chat_intent	人 家 想 看 小 哥 的 两 指 奇 长 的 手 。	o o o o o o o o o o o o o o
+riddle	QUERY	猜 谜 语 ， 听 了 。	o b-category i-category o o o o
+cookbook	QUERY	糖 醋 里 脊 啊 ， 啊	b-dishName i-dishName i-dishName i-dishName o o o
+health	QUERY	脊 髓 损 伤 。	b-keyword i-keyword i-keyword i-keyword o
+chat_domain	chat_intent	孩 他 妈 你 怎 么 还 是 那 么 美	o o o o o o o o o o o
+cookbook	QUERY	搜 索 ， 西 米 露 的 做 法 。	o o o b-dishName i-dishName i-dishName o o o o
+novel	QUERY	玄 幻 小 说 《 武 动 乾 坤 》	b-category i-category o o o b-name i-name i-name i-name o
+train	QUERY	明 天 去 滁 州 的 火 车	b-startDate_date i-startDate_date o b-endLoc_city i-endLoc_city o o o
+epg	QUERY	中 央 电 视 台 少 儿 频 道 大 耳 朵 图 图	b-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel b-name i-name i-name i-name i-name
+cinemas	QUERY	最 近 在 播 什 么 电 影 ？	o o o o o o o o o
+video	QUERY	忍 者 之 路	b-name i-name i-name i-name
+website	OPEN	把 我 打 开 淘 宝 的 网 页	o o o o b-name i-name o o o
+chat_domain	chat_intent	有 遇 到 一 个 “ 龙 哥 ” 的 麻 烦 请 叫 他 “ 隆 胸 = 龙 兄 ”	o o o o o o o o o o o o o o o o o o o o o o
+telephone	DIAL	打 电 话 给 地 瓜	o o o o b-name i-name
+chat_domain	chat_intent	腾 讯 携 手 卡 巴 斯 基 进 军 手 机 安 全 领 域 a l i n k	o o o o o o o o o o o o o o o o o o o o o
+lottery	NUMBER_QUERY	我 要 查 彩 票 的 开 奖 信 息 。	o o o o o o o o o o o
+bus	QUERY	合 肥 到 上 海 可 以 到 哪 坐 车 ？	b-Src i-Src o b-Dest i-Dest o o o o o o o
+cookbook	QUERY	阳 澄 湖 大 闸 蟹 的 做 法 。	b-dishName i-dishName i-dishName i-dishName i-dishName i-dishName o o o o
+flight	QUERY	查 一 下 从 南 京 到 上 海 的 航 班	o o o o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+chat_domain	chat_intent	这 不 是 炒 饭 吗 ？ 中 午 就 吃 这 ？	o o o o o o o o o o o o o
+translation	TRANSLATION	买 东 西 翻 译 成 英 语	b-content i-content i-content o o o b-target i-target
+cookbook	QUERY	南 瓜 饼 的 做 法 。	b-ingredient i-ingredient i-ingredient o o o o
+health	QUERY	唇 腭 裂 。	b-keyword i-keyword i-keyword o
+poetry	QUERY	那 就 来 一 首 李 白 的 诗 词 吗 ？	o o o o o b-author i-author o o o o o
+video	QUERY	换 到 米 老 鼠	o o b-name i-name i-name
+epg	QUERY	明 天 安 徽 卫 视 演 什 么	b-datetime_date i-datetime_date b-tvchannel i-tvchannel i-tvchannel i-tvchannel o o o
+match	QUERY	中 超 的 比 赛 预 告 。	b-category i-category o o o b-type i-type o
+chat_domain	chat_intent	有 丰 子 恺 的 味 道 ： ）	o o o o o o o o o
+chat_domain	chat_intent	广 院 的 肉 饼 ！ 太 想 念 这 口 儿 了 ！	o o o o o o o o o o o o o o
+music	PLAY	播 放 断 点	o o b-song i-song
+cinemas	QUERY	附 近 有 没 有 电 影 院 啊 ？	o o o o o o o o o o
+message	SEND	给 陈 易 云 发 短 消 息	o b-name i-name i-name o o o o
+match	QUERY	北 京 国 安 的 赛 程 。	b-name i-name i-name i-name o o o o
+stock	QUERY	查 询 中 信 国 安 的 股 票	o o b-name i-name i-name i-name o o o
+chat_domain	chat_intent	安 久 不 要 欺 负 妹 妹 ！	o o o o o o o o o
+chat_domain	chat_intent	原 来 你 手 上 的 都 是 肥 肉 哦	o o o o o o o o o o o
+chat_domain	chat_intent	这 必 然 是 绝 地 武 士 的 节 奏 啊	o o o o o o o o o o o o
+chat_domain	chat_intent	女 人 有 时 候 对 自 己 就 得 狠 一 点 儿	o o o o o o o o o o o o o o
+app	LAUNCH	打 开 音 乐 播 放 器	o o b-name i-name i-name i-name i-name
+tvchannel	PLAY	我 看 呀 中 央 五 台	o o o b-name i-name i-name i-name
+video	QUERY	我 要 看 李 连 杰 的 电 影	o o o b-artist i-artist i-artist o b-category i-category
+chat_domain	chat_intent	难 怪 我 每 天 都 没 办 法 早 睡 。	o o o o o o o o o o o o
+message	SENDCONTACTS	把 张 三 的 电 话 发 给 李 四	o b-name i-name o o o o o b-receiver i-receiver
+poetry	QUERY	毛 泽 东 的 诗 哦 。	b-author i-author i-author o o o o
+epg	QUERY	中 央 一 套 昨 天 的 新 闻 联 播	b-tvchannel i-tvchannel i-tvchannel i-tvchannel b-datetime_date i-datetime_date o b-name i-name i-name i-name
+tvchannel	PLAY	C C T V 四 套	b-name i-name i-name i-name i-name i-name
+stock	QUERY	居 然 股 份 股 票 怎 么 样	b-name i-name i-name i-name o o o o o
+cookbook	QUERY	怎 么 做 京 酱 肉 丝 。	o o o b-dishName i-dishName i-dishName i-dishName o
+train	QUERY	星 期 四 去 上 海 的 火 车	b-startDate_date i-startDate_date i-startDate_date o b-endLoc_city i-endLoc_city o o o
+chat_domain	chat_intent	辄 到 底 是 要 走 还 是 刚 回 来 呀	o o o o o o o o o o o o
+chat_domain	chat_intent	我 去 ！ 今 天 不 是 下 雨 了 嘛 ！	o o o o o o o o o o o o
+cookbook	QUERY	我 想 听 回 锅 肉 做 法 。	o o o b-dishName i-dishName i-dishName o o o
+map	ROUTE	到 安 徽 芜 湖 怎 么 走	o b-endLoc_province i-endLoc_province b-endLoc_city i-endLoc_city o o o
+stock	QUERY	查 询 中 国 石 化 的 股 价	o o b-name i-name i-name i-name o o o
+poetry	QUERY	月 咏 牡 丹 的 下 一 句 ， 是 什 么 ？	b-keyword i-keyword i-keyword i-keyword o b-queryField i-queryField i-queryField o o o o o
+video	QUERY	文 娱 播 报	b-name i-name i-name i-name
+chat_domain	chat_intent	一 开 始 很 晕 ， 后 来 定 睛 一 看 。 喷 啦	o o o o o o o o o o o o o o o
+chat_domain	chat_intent	一 想 起 你 ， 我 的 脸 就 笑 丑 了	o o o o o o o o o o o o
+chat_domain	chat_intent	当 一 个 人 不 再 思 考 人 生 价 值 的 时 候 ， 意 味 着 他 已 经 熟 过 了 。	o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	前 三 张 不 太 懂 不 是 说 浏 览 器 对 c s s 的 支 持 度 吗	o o o o o o o o o o o o o o o o o o o o o
+music	PLAY	来 一 首 听 你 听 我	o o o b-song i-song i-song i-song
+message	SEND	给 栾 佳 佳 发 短 信 说 回 到 济 南 了	o b-name i-name i-name o o o o b-content i-content i-content i-content i-content
+music	PLAY	放 首 陈 奕 迅 的 十 年	o o b-artist i-artist i-artist o b-song i-song
+weather	QUERY	合 肥 明 天 的 湿 度 如 何	b-location_city i-location_city b-datetime_date i-datetime_date o b-subfocus i-subfocus o o
+telephone	DIAL	拨 号 曹 兴 发	o o b-name i-name i-name
+app	LAUNCH	打 开 q q 浏 览 器	o o b-name i-name i-name i-name i-name
+stock	QUERY	腾 讯 公 司 的 股 票	b-name i-name o o o o o
+flight	QUERY	查 一 下 明 天 晚 上 1 7 点 3 0 分 从 上 海 飞 往 珠 海 三 灶 机 场 的 飞 机	o o o b-startDate_date i-startDate_date o o b-startDate_time i-startDate_time i-startDate_time i-startDate_time i-startDate_time i-startDate_time o b-startLoc_city i-startLoc_city o o b-endLoc_city i-endLoc_city b-endLoc_poi i-endLoc_poi i-endLoc_poi i-endLoc_poi o o o
+train	QUERY	搜 索 郑 州 到 南 阳 的 火 车 票	o o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o o
+flight	QUERY	查 一 下 明 天 青 岛 飞 往 上 海 的 飞 机 都 有 哪 一 些 都 是 几 点 的	o o o b-startDate_date i-startDate_date b-startLoc_city i-startLoc_city o o b-endLoc_city i-endLoc_city o o o o o o o o o o o o o
+cookbook	QUERY	制 作 酸 梅 汤 怎 么 做 ？	o o b-dishName i-dishName i-dishName o o o o
+cinemas	QUERY	查 一 下 最 近 有 什 么 电 影 ？	o o o o o o o o o o o
+chat_domain	chat_intent	难 免 抱 怨 ， 但 仍 需 坚 持	o o o o o o o o o o
+train	QUERY	潍 坊 到 济 南 的 火 车 票	b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o o
+website	OPEN	打 开 苹 果 公 司 的 官 方 网 站	o o b-name i-name i-name i-name i-name i-name i-name i-name i-name
+video	QUERY	搜 索 下 绿 巨 人	o o o b-name i-name i-name
+cookbook	QUERY	鸡 蛋 怎 么 炒 最 好 吃 ？	b-ingredient i-ingredient o o o o o o o
+lottery	NUMBER_QUERY	搜 索 七 乐 彩 的 公 示 号 码	o o b-name i-name i-name o o o o o
+lottery	NUMBER_QUERY	帮 我 买 两 注 双 色 球	o o o o o b-name i-name i-name
+epg	QUERY	什 么 电 视 台 什 么 时 间 有 转 播 仁 心 解 码 2	o o o o o o o o o o o o b-name i-name i-name i-name i-name
+message	SEND	发 短 信 给 王 亮 说 死 人 你 在 干 什 么 呢	o o o o b-name i-name o b-content i-content i-content i-content i-content i-content i-content i-content
+chat_domain	chat_intent	还 有 没 有 啊 ， 期 待 发 更 新 图 片 ， 给 我 带 来 新 的 惊 喜 ！	o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	看 来 我 是 在 过 日 子 喽 。	o o o o o o o o o o
+health	QUERY	肠 胃 炎 怎 么 治 ？	b-keyword i-keyword i-keyword o o o o
+chat_domain	chat_intent	。 大 晚 上 看 到 这 个 。	o o o o o o o o o
+map	POSITION	查 查 科 大 讯 飞 在 哪 儿	o o b-location_poi i-location_poi i-location_poi i-location_poi o o o
+chat_domain	chat_intent	人 生 就 是 在 不 停 地 假 装 ' ' ' ' '	o o o o o o o o o o o o o o o
+video	QUERY	孙 俪 的 电 视 剧	b-artist i-artist o b-category i-category i-category
+chat_domain	chat_intent	猫 星 人 越 来 越 聪 明 了	o o o o o o o o o
+translation	TRANSLATION	当 前 不 再 呼 叫 英 语 怎 么 说	b-content i-content i-content i-content i-content i-content b-target i-target o o o
+website	OPEN	但 是 我 想 上 腾 讯 网	o o o o o b-name i-name i-name
+chat_domain	chat_intent	经 常 一 个 人 飞 的 表 示 很 有 鸭 梨 啊 ， 创 意 哦	o o o o o o o o o o o o o o o o o o
+health	QUERY	感 冒 注 意 什 么 ？	b-keyword i-keyword o o o o o
+cookbook	QUERY	麻 婆 豆 腐 怎 么 做	b-dishName i-dishName i-dishName i-dishName o o o
+riddle	QUERY	来 一 个 灯 谜 ， 你 。	o o o b-category i-category o o o
+telephone	DIAL	给 木 九 超 打 电 话	o b-name i-name i-name o o o
+match	QUERY	下 个 星 期 中 国 足 球 超 级 联 赛 淘 汰 赛 的 赛 事 前 瞻	b-datetime_date i-datetime_date i-datetime_date i-datetime_date b-category i-category i-category i-category i-category i-category i-category i-category o o o o o o o o
+message	SENDCONTACTS	把 张 玉 娟 的 手 机 号 码 发 送 给 吴 伟	o b-name i-name i-name o b-category i-category o o o o o b-receiver i-receiver
+app	LAUNCH	打 开 q q 找 杨 佳 艺	o o b-name i-name o o o o
+cookbook	QUERY	意 大 利 面 。	b-dishName i-dishName i-dishName i-dishName o
+website	OPEN	打 开 腾 讯 拍 拍 网	o o b-name i-name i-name i-name i-name
+stock	QUERY	苹 果 公 司 股 票 每 股 多 少 钱 啊	b-name i-name i-name i-name o o o o o o o o
+epg	QUERY	少 儿 节 目 中 央 少 儿 节 目	b-category i-category o o b-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel
+map	ROUTE	玉 照 公 园 怎 么 走	b-endLoc_poi i-endLoc_poi i-endLoc_poi i-endLoc_poi o o o
+telephone	DIAL	打 电 话 给 王 大 头	o o o o b-name i-name i-name
+lottery	NUMBER_QUERY	大 乐 透 中 奖 号 码 为	b-name i-name i-name o o o o o
+video	QUERY	康 熙 大 帝	b-name i-name i-name i-name
+chat_domain	chat_intent	沃 勒 个 擦 ， 太 霸 气 了	o o o o o o o o o
+cookbook	QUERY	红 烧 排 骨 怎 么 做 ？	b-dishName i-dishName i-dishName i-dishName o o o o
+epg	QUERY	B T V 北 京 频 道 打 狗 棍	b-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel b-name i-name i-name
+message	SEND	发 送 短 信 给 黄 启 超	o o o o o b-name i-name i-name
+health	QUERY	得 了 关 节 炎 怎 么 办 ？	o o b-keyword i-keyword i-keyword o o o o
+chat_domain	chat_intent	情 妇 不 是 你 想 当 就 能 当 。	o o o o o o o o o o o
+chat_domain	chat_intent	那 时 去 没 那 么 漂 亮 啊 ， 而 且 还 是 晚 上 ， 那 个 人 多 啊 简 直 是 人 逼 人	o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+chat_domain	chat_intent	这 么 漂 亮 。 花 几 十 万 学 费 也 倒 是 品 质 不 一 样 。	o o o o o o o o o o o o o o o o o o o o
+train	QUERY	北 京 到 镇 江 的 火 车	b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+stock	QUERY	查 询 重 庆 水 务 股 票	o o b-name i-name i-name i-name o o
+map	ROUTE	查 询 北 京 到 上 海 的 路 线	o o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+telephone	DIAL	打 电 话 零 八	o o o o o
+cookbook	QUERY	水 饺 的 做 法 。	b-dishName i-dishName o o o o
+flight	QUERY	武 汉 到 北 京 的 飞 机 票	b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o o
+flight	QUERY	查 询 今 天 成 都 到 北 京 的 航 班	o o b-startDate_date i-startDate_date b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+video	QUERY	美 国 电 影 破 碎 之 城	b-area i-area b-category i-category b-name i-name i-name i-name
+map	ROUTE	从 武 汉 到 呼 和 浩 特	o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city i-endLoc_city i-endLoc_city
+cookbook	QUERY	小 鸡 炖 蘑 菇 的 做 法 爸	b-dishName i-dishName i-dishName i-dishName i-dishName o o o o
+map	ROUTE	帮 我 查 一 下 到 狼 牙 山 怎 么 走	o o o o o o b-endLoc_poi i-endLoc_poi i-endLoc_poi o o o
+website	OPEN	索 尼 爱 立 信 官 网	b-name i-name i-name i-name i-name o o
+cookbook	QUERY	干 豆 角 怎 么 烧 ？	b-ingredient i-ingredient i-ingredient o o o o
+telephone	DIAL	打 电 话 麦 亚 伦	o o o b-name i-name i-name
+lottery	NUMBER_QUERY	大 乐 透 的 开 奖 情 况	b-name i-name i-name o o o o o
+music	PLAY	歌 曲 白 天 不 懂 夜 的 黑	o o b-song i-song i-song i-song i-song i-song i-song
+poetry	QUERY	牧 童 骑 黄 牛 的 下 一 句 是 什 么 ？	b-keyword i-keyword i-keyword i-keyword i-keyword o b-queryField i-queryField i-queryField o o o o
+epg	QUERY	熊 出 没 是 几 点 开 始 播 放 。	b-name i-name i-name o o o o o o o o
+cookbook	QUERY	就 拉 下 的 饺 子 怎 么 做 ？	o o o o b-dishName i-dishName o o o o
+translation	TRANSLATION	你 今 天 去 了 哪 里 用 英 文 怎 么 讲	b-content i-content i-content i-content i-content i-content i-content o b-target i-target o o o
+stock	QUERY	伊 利 股 份 股 票	b-name i-name i-name i-name o o
+poetry	QUERY	刘 禹 锡 的 秋 词 。	b-author i-author i-author o b-name i-name o
+chat_domain	chat_intent	现 在 还 有 这 么 干 净 的 河 ， 这 么 清 的 水 草 吗 ， 有 点 怀 疑 真 实 性	o o o o o o o o o o o o o o o o o o o o o o o o o o
+cookbook	QUERY	酸 辣 汤 的 做 法 。	b-dishName i-dishName i-dishName o o o o
+chat_domain	chat_intent	这 样 洗 怪 不 好 意 思 的	o o o o o o o o o
+poetry	QUERY	我 背 一 首 生 查 子 。	o o o o b-name i-name i-name o
+cookbook	QUERY	烤 鸭 ， 啊 ！	b-dishName i-dishName o o o
+video	QUERY	胜 女 的 代 价 电 视 剧	b-name i-name i-name i-name i-name b-category i-category i-category
+chat_domain	chat_intent	试 一 下 哎 。 不 知 效 果 如 何 。	o o o o o o o o o o o o
+poetry	QUERY	帮 我 来 一 首 兰 陵 王 。	o o o o o b-name i-name i-name o
+news	PLAY	播 放 最 近 的 新 闻 。	o o b-datetime_date i-datetime_date o o o o
+radio	LAUNCH	本 省 农 村 广 播	b-name i-name b-category i-category o o
+bus	QUERY	太 原 到 广 州 的 车 。	b-Src i-Src o b-Dest i-Dest o o o
+bus	QUERY	南 京 到 ， 黄 山 的 汽 车 。	b-Src i-Src o o b-Dest i-Dest o o o o
+music	PLAY	我 想 听 周 杰 伦 的 菊 花 台	o o o b-artist i-artist i-artist o b-song i-song i-song
+cinemas	QUERY	哦 哦 ， 查 一 下 香 港 最 新 上 映 电 影 。	o o o o o o b-location_city i-location_city o o o o o o o
+train	QUERY	南 京 到 厦 门 的 火 车 票	b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o o
+stock	QUERY	阿 勋 中 集 集 团 的 股 票	o o b-name i-name i-name i-name o o o
+video	QUERY	正 者 无 敌	b-name i-name i-name i-name
+translation	TRANSLATION	翻 译 我 想 去 远 方	o o b-content i-content i-content i-content i-content
+poetry	QUERY	背 屈 原 的 离 骚	o b-author i-author o b-name i-name
+translation	TRANSLATION	床 英 文 怎 么 说	b-content b-target i-target o o o
+email	LAUNCH	替 我 打 开 新 邮 件	o o o o o o o
+flight	QUERY	从 重 庆 到 武 汉 的 航 班	o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+video	QUERY	贺 岁 片	b-tag i-tag b-category
+website	OPEN	帮 我 上 下 新 浪 网	o o o o b-name i-name i-name
+telephone	DIAL	打 电 话 给 小 女 儿	o o o o b-name i-name i-name
+video	QUERY	古 惑 仔	b-name i-name i-name
+train	QUERY	查 下 温 州 到 杭 州 的 火 车 票	o o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o o
+chat_domain	chat_intent	新 版 阿 里 移 动 版 上 线 ， 支 持 登 录 和 旺 旺 ， 欢 迎 体 验 a l i n k	o o o o o o o o o o o o o o o o o o o o o o o o o o o
+telephone	DIAL	打 电 话 给 陈 永 聪	o o o o b-name i-name i-name
+telephone	DIAL	打 电 话 给 美 华	o o o o b-name i-name
+tvchannel	PLAY	小 c 你 好 我 想 看 河 北 卫 视	o o o o o o o b-name i-name i-name i-name
+cinemas	QUERY	搜 索 合 肥 左 岸 电 影 城 。	o o b-theatre i-theatre i-theatre i-theatre i-theatre i-theatre i-theatre o
+poetry	QUERY	来 一 首 白 居 易 的 诗 了 。	o o o b-author i-author i-author o o o o
+tvchannel	PLAY	湖 北 电 视 台	b-name i-name i-name i-name i-name
+health	QUERY	。 咳 嗽	o b-keyword i-keyword
+video	QUERY	魔 幻 手 机	b-name i-name i-name i-name
+lottery	NUMBER_QUERY	查 看 七 乐 彩 的 得 奖 号 码	o o b-name i-name i-name o o o o o
+cookbook	QUERY	土 豆 的 做 法	b-ingredient i-ingredient o o o
+epg	QUERY	浙 江 卫 视 今 晚 有 中 国 好 声 音 吗 ？	b-tvchannel i-tvchannel i-tvchannel i-tvchannel b-datetime_time i-datetime_time o b-name i-name i-name i-name i-name o o
+lottery	NUMBER_QUERY	看 一 看 大 乐 透 的 信 息	o o o b-name i-name i-name o o o
+train	QUERY	广 州 到 孝 感 的 火 车	b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+health	QUERY	贫 血 怎 么 治 ？	b-keyword i-keyword o o o o
+music	PLAY	毛 阿 敏 的 歌	b-artist i-artist i-artist o o
+translation	TRANSLATION	我 不 在 家 英 语 怎 么 说	b-content i-content i-content i-content b-target i-target o o o
+health	QUERY	包 皮 过 长 ， 怎 么 办 ？ 哦 。	b-keyword i-keyword i-keyword i-keyword o o o o o o o
+map	ROUTE	导 航 到 石 化 小 学	o o o b-endLoc_poi i-endLoc_poi i-endLoc_poi i-endLoc_poi
+chat_domain	chat_intent	哈 导 辛 苦 喽 ， 早 安 ！	o o o o o o o o o
+train	QUERY	查 一 下 广 州 到 信 阳 的 火 车 票	o o o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o o
+novel	QUERY	我 要 看 饶 雪 漫 的 小 说 左 耳	o o o b-author i-author i-author o o o b-name i-name
+cookbook	QUERY	海 星 的 做 法 。	b-ingredient i-ingredient o o o o
+chat_domain	chat_intent	居 然 没 有 剪 刀 手 － 爱 德 华	o o o o o o o o o o o
+cookbook	QUERY	椒 盐 排 骨 怎 么 做 ？ 你 ？	b-dishName i-dishName i-dishName i-dishName o o o o o o
+health	QUERY	小 孩 子 有 肺 炎 的 治 疗 方 法 有 哪 些 ？	o o o o b-keyword i-keyword o o o o o o o o o
+app	LAUNCH	进 入 设 置 菜 单	o o b-name i-name o o
+chat_domain	chat_intent	哩 边 七 点 及 几 喇 吃 紧 晚 饭	o o o o o o o o o o o
+flight	QUERY	查 询 后 天 成 都 到 伦 敦 的 航 班	o o b-startDate_date i-startDate_date b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+train	QUERY	贵 溪 至 泉 州 的 火 车 票	b-startLoc_area i-startLoc_area o b-endLoc_city i-endLoc_city o o o o
+chat_domain	chat_intent	哪 位 知 道 这 一 个 个 穿 插 叠 起 的 是 怎 么 折 的 呀	o o o o o o o o o o o o o o o o o o o
+video	QUERY	现 在 热 门 的 电 视 剧 是 什 么	o o b-popularity i-popularity o b-category i-category i-category o o o
+news	PLAY	今 天 有 什 么 军 事 新 闻	b-datetime_date i-datetime_date o o o b-category i-category o o
+novel	QUERY	都 市 言 情 小 说 何 以 笙 箫 默	b-category i-category i-category i-category o o b-name i-name i-name i-name i-name
+message	SEND	给 杨 燕 姐 发 短 信	o b-name i-name i-name o o o
+chat_domain	chat_intent	筷 子 是 不 能 插 碗 里 的 。	o o o o o o o o o o
+video	QUERY	我 想 看 珍 珠 港	o o o b-name i-name i-name
+video	QUERY	江 山	b-name i-name
+translation	TRANSLATION	翻 译 我 今 天 要 去 打 网 球	o o b-content i-content i-content i-content i-content i-content i-content i-content
+stock	QUERY	搜 索 泰 亚 股 份 股 票	o o b-name i-name i-name i-name o o
+chat_domain	chat_intent	真 想 去 去 扬 州 ， 苏 州	o o o o o o o o o
+cookbook	QUERY	皮 冻 的 做 法 。	b-ingredient i-ingredient o o o o
+video	QUERY	看 电 影 啊	o b-category i-category o
+video	QUERY	那 么 最 近 有 什 么 好 电 影 呢 ？	o o b-timeDescr i-timeDescr o o o b-scoreDescr b-category i-category o o
+message	SEND	发 送 短 信 给 老 婆 我 在 三 号 楼 三 零 幺 刚 才 那 个 教 室 关 门 了	o o o o o b-name i-name b-content i-content i-content i-content i-content i-content i-content i-content i-content i-content i-content i-content i-content i-content i-content i-content i-content
+chat_domain	chat_intent	大 法 师 ， 威 力 无 边 呀 。	o o o o o o o o o o
+health	QUERY	偏 头 痛 怎 么 治 ？	b-keyword i-keyword i-keyword o o o o
+website	OPEN	打 开 杜 鑫 文 的 网 站	o o b-name i-name i-name i-name i-name i-name
+cookbook	QUERY	小 白 菜 拌 豆 腐 怎 么 做 呀 ？	o b-dishName i-dishName i-dishName i-dishName i-dishName o o o o o
+telephone	DIAL	打 电 话 给 卢 静	o o o o b-name i-name
+chat_domain	chat_intent	这 个 表 情 和 他 说 “ 我 错 了 ” 的 时 候 的 表 情 好 像 啊 ！	o o o o o o o o o o o o o o o o o o o o o o
+train	QUERY	重 庆 到 成 都 的 火 车 票 多 少 钱	b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o o o o o
+telephone	DIAL	打 电 话 给 王 安 娜	o o o o b-name i-name i-name
+app	LAUNCH	嗯 打 开 相 机	o o o b-name i-name
+video	QUERY	看 看 郑 晓 龙 导 演 的 甄 嬛 传	o o b-artist i-artist i-artist b-artistRole i-artistRole o b-name i-name i-name
+cookbook	QUERY	酱 牛 肉 怎 么 做	b-dishName i-dishName i-dishName o o o
+cookbook	QUERY	猪 大 肠 怎 么 炒 ？	b-ingredient i-ingredient i-ingredient o o o o
+train	QUERY	帮 我 查 一 下 洛 阳 到 赣 州 的 火 车	o o o o o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+chat_domain	chat_intent	我 肯 定 拿 了 国 家 一 等 奖 学 金 。	o o o o o o o o o o o o o
+poetry	QUERY	给 我 朗 诵 一 下 岳 飞 的 满 江 红 。	o o o o o o b-author i-author o b-name i-name i-name o
+train	QUERY	查 一 下 苏 州 到 洛 阳 的 火 车 票	o o o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o o
+cookbook	QUERY	铁 板 烧 怎 么 做 ？	b-dishName i-dishName i-dishName o o o o
+chat_domain	chat_intent	为 虎 作 伥 残 害 无 辜 生 灵	o o o o o o o o o o
+train	QUERY	深 圳 至 合 肥 的 火 车 票	b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o o
+chat_domain	chat_intent	不 求 最 好 但 求 最 贵 ！ 哈 哈	o o o o o o o o o o o
+cookbook	QUERY	糖 醋 排 骨 怎 么 做 呢	b-dishName i-dishName i-dishName i-dishName o o o o
+news	PLAY	讲 点 新 闻	o o o o
+chat_domain	chat_intent	- - 。 好 可 怕 的 说 。 ！ 吓 到 银 家 了 ！	o o o o o o o o o o o o o o o o
+app	LAUNCH	打 开 相 机 这	o o b-name i-name o
+website	OPEN	打 开 新 浪 网 我 肏	o o b-name i-name i-name o o
+poetry	QUERY	来 首 李 白 的 诗 集 。	o o b-author i-author o o o o
+chat_domain	chat_intent	确 实 很 冷 ， 还 是 转 个 。	o o o o o o o o o o
+chat_domain	chat_intent	这 样 露 点 的 图 发 了 是 违 法 的 吧 ？	o o o o o o o o o o o o o o
+translation	TRANSLATION	帮 我 翻 译 一 下 我 饿 了	o o o o o o b-content i-content i-content
+poetry	QUERY	床 前 明 月 光 下 一 句 是 怎 么 说	b-keyword i-keyword i-keyword i-keyword i-keyword b-queryField i-queryField i-queryField o o o o
+tvchannel	PLAY	找 湖 南 卫 视	o b-name i-name i-name i-name
+music	PLAY	来 一 首 有 点 舍 不 得	o o o b-song i-song i-song i-song i-song
+radio	LAUNCH	我 好 想 听 新 城 知 讯 台	o o o o b-name i-name i-name i-name i-name
+cookbook	QUERY	红 烧 肉 怎 么 做 ？ 嗯 ？	b-dishName i-dishName i-dishName o o o o o o
+lottery	NUMBER_QUERY	搜 索 大 乐 透 的 中 奖 号 码	o o b-name i-name i-name o o o o o
+cookbook	QUERY	草 莓 芒 果 西 米 露 。	b-dishName i-dishName i-dishName i-dishName i-dishName i-dishName i-dishName o
+epg	QUERY	C C T V - 1 2 套 的 节 目 单	b-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel o o o o o
+cookbook	QUERY	卤 猪 蹄 怎 么 做 ？	b-dishName i-dishName i-dishName o o o o
+app	LAUNCH	我 想 上 q q 了	o o o b-name i-name o
+translation	TRANSLATION	我 想 出 去 旅 游 英 文 怎 么 说	b-content i-content i-content i-content i-content i-content b-target i-target o o o
+riddle	QUERY	你 会 猜 谜 语 吗 ？	o o o b-category i-category o o
+news	PLAY	k 新 闻 想 听 新 闻 。	o o o o o o o o
+translation	TRANSLATION	晚 安 的 英 语	b-content i-content o b-target i-target
+epg	QUERY	查 查 最 近 一 周 C C T V - 4 美 洲 有 放 我 爱 记 歌 词 么	o o b-datetime_date i-datetime_date i-datetime_date i-datetime_date b-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel o o b-name i-name i-name i-name i-name o
+poetry	QUERY	搜 索 腊 梅 。	o o b-name i-name o
+telephone	DIAL	打 电 话 给 郑 艺 红	o o o o b-name i-name i-name
+cookbook	QUERY	蒸 鱼 。	b-dishName i-dishName o
+translation	TRANSLATION	苹 果 翻 译 成 英 语	b-content i-content o o o b-target i-target
+map	ROUTE	导 航 到 建 八 路	o o o b-endLoc_poi i-endLoc_poi i-endLoc_poi
+video	QUERY	看 上 周 五 的 爸 爸 我 去 哪 儿	o b-datetime_date i-datetime_date i-datetime_date o b-name i-name i-name i-name i-name i-name
+chat_domain	chat_intent	玮 玮 不 参 加 大 理 音 乐 节 ？	o o o o o o o o o o o
+chat_domain	chat_intent	不 管 你 信 不 信 ， 我 信 了 ！	o o o o o o o o o o o
+poetry	QUERY	来 一 首 白 居 易 的 诗	o o o b-author i-author i-author o o
+translation	TRANSLATION	你 去 玩 手 机 了 吧 用 英 语 怎 么 说	b-content i-content i-content i-content i-content i-content i-content o b-target i-target o o o
+music	SEARCH	有 什 么 好 听 的 歌	o o o b-category i-category o o
+flight	QUERY	南 昌 到 广 州 飞 机 票	b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+poetry	QUERY	给 我 念 首 春 晓 。	o o o o b-name i-name o
+map	ROUTE	怎 么 去 龙 阳 路	o o o b-endLoc_poi i-endLoc_poi i-endLoc_poi
+video	QUERY	我 要 看 西 游 记 啊	o o o b-name i-name i-name o
+cookbook	QUERY	烤 鸡 翅 怎 么 做 ？	b-dishName i-dishName i-dishName o o o o
+music	SEARCH	帮 我 查 一 下 周 杰 伦 的 歌	o o o o o b-artist i-artist i-artist o o
+cinemas	QUERY	搜 索 热 门 电 影 。	o o o o o o o
+cookbook	QUERY	土 豆 饼 怎 么 做 啊 ？	b-dishName i-dishName i-dishName o o o o o
+stock	QUERY	江 苏 阳 光 的 股 票 怎 么 样 了	b-name i-name i-name i-name o o o o o o o
+chat_domain	chat_intent	I Q 高 ， 情 商 高 ！ 难 免 失 眠 ！	o o o o o o o o o o o o o
+train	QUERY	有 没 有 徐 州 到 洛 阳 的 火 车 票	o o o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o o
+chat_domain	chat_intent	不 过 ， 李 主 任 续 集 还 没 看 到 ， 还 是 令 我 失 望 的 。	o o o o o o o o o o o o o o o o o o o o o
+stock	QUERY	搜 索 蒙 牛 的 股 市 行 情	o o b-name i-name o o o o o
+chat_domain	chat_intent	老 师 在 在 扬 州 啊 ！ 我 今 天 正 好 从 学 校 回 来 啦 。	o o o o o o o o o o o o o o o o o o o o
+stock	QUERY	查 询 科 大 讯 飞 的 股 价	o o b-name i-name i-name i-name o o o
+news	PLAY	我 要 看 新 闻 玩 不 ？	o o o o o o o o
+message	SEND	给 青 发 短 信	o b-name o o o
+music	PLAY	听 时 间 煮 雨 这 首 歌	o b-song i-song i-song i-song o o o
+video	QUERY	共 同 关 注	b-name i-name i-name i-name
+news	PLAY	但 我 想 点 新 闻 。	o o o o o o o
+telephone	DIAL	呼 叫 a 二 小 姐	o o o b-name i-name i-name
+chat_domain	chat_intent	长 大 了 些 ， 懂 得 欣 赏 美 味 了	o o o o o o o o o o o o
+epg	QUERY	电 影 频 道 明 天 放 什 么	b-tvchannel i-tvchannel i-tvchannel i-tvchannel b-datetime_date i-datetime_date o o o
+flight	QUERY	查 询 明 天 南 阳 到 上 海 的 航 班	o o b-startDate_date i-startDate_date b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+bus	QUERY	从 南 昌 到 长 沙 的 汽 车 。	o b-Src i-Src o b-Dest i-Dest o o o o
+cookbook	QUERY	炖 鸡	b-dishName i-dishName
+video	QUERY	给 我 搜 个 电 影	o o o o b-category i-category
+message	SEND	传 简 讯 给 家 里	o o o o b-name i-name
+tvchannel	PLAY	在 线 观 看 中 央 七 套	o o o o b-name i-name i-name i-name
+cookbook	QUERY	瞌 睡 鱼 怎 么 做 ？	o o b-ingredient o o o o
+poetry	QUERY	给 我 背 一 首 满 江 红 。	o o o o o b-name i-name i-name o
+cinemas	QUERY	给 我 放 一 部 最 新 的 电 影 。	o o o o o o o o o o o
+news	PLAY	多 想 听 新 闻 ， 哦 。	o o o o o o o o
+radio	LAUNCH	请 帮 我 调 一 下 电 台 到 镇 江 新 闻 广 播	o o o o o o o o o b-name i-name i-name i-name i-name i-name
+cookbook	QUERY	板 栗 怎 么 煮 ？	b-ingredient i-ingredient o o o o
+chat_domain	chat_intent	好 可 爱 的 泰 迪 熊 啊 ！	o o o o o o o o o
+chat_domain	chat_intent	要 是 有 个 义 无 反 顾 的 人 爱 着 就 好 了	o o o o o o o o o o o o o o o
+flight	QUERY	查 下 上 海 到 太 原 的 机 票	o o b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+music	PLAY	唱 一 首 简 单 爱	o o o b-song i-song i-song
+telephone	QUERY	潘 靖 的 电 话 是 多 少	b-name i-name o o o o o o
+message	SEND	发 短 讯 给 曹 建 阳	o o o o b-name i-name i-name
+map	ROUTE	怎 么 去 农 业 银 行	o o o b-endLoc_poi i-endLoc_poi i-endLoc_poi i-endLoc_poi
+message	SEND	给 张 倩 倩 发 短 信	o b-name i-name i-name o o o
+poetry	QUERY	说 一 首 唐 诗 吧 ！	o o o b-dynasty o o o
+epg	QUERY	现 在 电 视 台 在 放 什 么 节 目	b-datetime_time i-datetime_time o o o o o o o b-category i-category
+poetry	QUERY	背 一 下 游 子 。	o o o b-name i-name o
+chat_domain	chat_intent	两 个 人 在 一 起 ， 做 什 么 都 甜 蜜 。 互 粉 哦 亲 们 。	o o o o o o o o o o o o o o o o o o o o
+cookbook	QUERY	土 豆 怎 么 做 才 好 吃 ？	b-ingredient i-ingredient o o o o o o o
+cookbook	QUERY	红 烧 土 豆 怎 么 烧 ？	b-dishName i-dishName i-dishName i-dishName o o o o
+music	PLAY	想 听 牵 手 这 首 歌	o o b-song i-song o o o
+cookbook	QUERY	风 魔 炒 鱼 香 肉 丝 。	b-dishName i-dishName i-dishName i-dishName i-dishName i-dishName i-dishName o
+cookbook	QUERY	怎 么 做 卤 猪 脚	o o o b-dishName i-dishName i-dishName
+riddle	QUERY	字 谜 你 。	b-category i-category o o
+app	LAUNCH	o p e r a 浏 览 器	b-name i-name i-name i-name i-name i-name i-name i-name
+website	OPEN	浏 览 一 下 百 度	o o o o b-name i-name
+video	QUERY	地 心 历 险 记 二	b-name i-name i-name i-name i-name i-name
+website	OPEN	我 要 上 网 打 开 百 度	o o o o o o b-name i-name
+cookbook	QUERY	帮 我 查 一 下 红 烧 肉 的 做 法	o o o o o b-dishName i-dishName i-dishName o o o
+app	LAUNCH	酷 狗 音 乐 盒	b-name i-name i-name i-name i-name
+train	QUERY	深 圳 到 开 封 的 火 车	b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+epg	QUERY	你 ， 湖 南 卫 视 正 在 播 出 什 么 ？ 你 。	o o b-tvchannel i-tvchannel i-tvchannel i-tvchannel o o o o o o o o o
+flight	QUERY	儋 州 到 海 口 的 航 班	b-startLoc_area i-startLoc_area o b-endLoc_city i-endLoc_city o o o
+chat_domain	chat_intent	求 购 原 味 丝 袜 热 裤 内 衣 裤 ！	o o o o o o o o o o o o
+lottery	NUMBER_QUERY	查 看 大 乐 透 玩 法 的 开 奖	o o b-name i-name i-name o o o o o
+epg	QUERY	哪 个 电 视 台 在 放 神 雕 侠 侣 。	o o o o o o o b-name i-name i-name i-name o
+cookbook	QUERY	木 瓜 汤 怎 么 做	b-dishName i-dishName i-dishName o o o
+translation	TRANSLATION	我 喜 欢 亚 楠 用 英 语 怎 么 说	b-content i-content i-content i-content i-content o b-target i-target o o o
+news	PLAY	报 点 新 闻 给 我 听 。	o o o o o o o o
+chat_domain	chat_intent	我 跪 求 ， 一 个 美 好 的 假 期 ！	o o o o o o o o o o o o
+website	OPEN	美 女 啊 帮 我 打 开 网 页	o o o o o o o o o
+app	LAUNCH	正 韵 打 开 相 机	o o o o b-name i-name
+riddle	QUERY	来 个 谜 语 吧 ！	o o b-category i-category o o
+chat_domain	chat_intent	除 了 房 子 卖 便 宜 了 ， 其 他 基 本 都 实 现 了 。	o o o o o o o o o o o o o o o o o o
+cookbook	QUERY	肉 炒 饭 怎 么 做 ？	b-dishName i-dishName i-dishName o o o o
+epg	QUERY	湖 南 卫 视 现 在 演 什 么 节 目	b-tvchannel i-tvchannel i-tvchannel i-tvchannel b-datetime_time i-datetime_time o o o o o
+chat_domain	chat_intent	“ 天 生 丽 质 ” 和 “ 天 生 励 志 ”	o o o o o o o o o o o o o
+music	PLAY	来 一 首 钟 汉 良 的 视 觉 动 物	o o o b-artist i-artist i-artist o b-song i-song i-song i-song
+map	POSITION	龙 口 西 路 在 哪 里	b-location_poi i-location_poi i-location_poi i-location_poi o o o
+message	SENDCONTACTS	把 侨 天 慧 的 号 码 发 给 副 卡	o b-name i-name i-name o o o o o b-receiver i-receiver
+bus	QUERY	宁 波 到 岳 阳 的 汽 车 。	b-Src i-Src o b-Dest i-Dest o o o o
+video	QUERY	大 头 儿 子 小 头 爸 爸	b-name i-name i-name i-name i-name i-name i-name i-name
+chat_domain	chat_intent	荔 枝 和 葵 花 籽 剥 好 一 堆 · 这 俩 都 试 过	o o o o o o o o o o o o o o o o
+epg	QUERY	周 六 晚 上 重 庆 卫 视 有 转 播 神 探 高 伦 布 吗	b-datetime_date i-datetime_date b-datetime_time i-datetime_time b-tvchannel i-tvchannel i-tvchannel i-tvchannel o o o b-name i-name i-name i-name i-name o
+chat_domain	chat_intent	像 过 去 的 年 轻 时 光 致 敬	o o o o o o o o o o
+tvchannel	PLAY	福 建 电 视 台	b-name i-name i-name i-name i-name
+message	SEND	给 胡 克 发 短 信	o b-name i-name o o o
+translation	TRANSLATION	书 包 用 英 语 怎 么 说	b-content i-content o b-target i-target o o o
+tvchannel	PLAY	高 清 北 京 文 艺 台	b-resolution i-resolution b-name i-name i-name i-name i-name
+chat_domain	chat_intent	一 天 吃 几 十 颗 西 瓜 不 是 梦 ！	o o o o o o o o o o o o
+epg	QUERY	中 央 一 一 台 有 什 么 节 目 吗	b-tvchannel i-tvchannel i-tvchannel i-tvchannel i-tvchannel o o o o o o
+cookbook	QUERY	鱼 香 肉 丝 ， 怎 么 做 ？ 买 ？	b-dishName i-dishName i-dishName i-dishName o o o o o o o
+cookbook	QUERY	油 焖 大 虾 怎 么 做	b-dishName i-dishName i-dishName i-dishName o o o
+epg	QUERY	哪 个 台 在 放 甄 嬛	o o o o o b-name i-name
+stock	QUERY	科 大 讯 飞 的 股 价 如 何	b-name i-name i-name i-name o o o o o
+video	QUERY	英 雄 本 色 电 影	b-name i-name i-name i-name b-category i-category
+news	PLAY	我 也 听 新 闻 。	o o o o o o
+health	QUERY	近 视 眼 怎 么 治 疗	b-keyword i-keyword i-keyword o o o o
+stock	QUERY	查 寻 上 海 能 源 的 股 票	o o b-name i-name i-name i-name o o o
+poetry	QUERY	唐 寅 的 诗 。	b-author i-author o o o
+novel	QUERY	我 要 看 游 戏 异 界 小 说	o o o b-category i-category i-category i-category o o
+cookbook	QUERY	梅 菜 扣 肉 怎 么 做 啊 ？	b-dishName i-dishName i-dishName i-dishName o o o o o
+cookbook	QUERY	牛 肉 的 做 法 。	b-ingredient i-ingredient o o o o
+chat_domain	chat_intent	前 一 段 时 间 还 说 这 个 改 革 ， 那 个 改 革 ， 原 来 都 是 这 么 改 的 ！	o o o o o o o o o o o o o o o o o o o o o o o o o o
+message	SEND	我 现 在 要 发 一 条 信 息	o o o o o o o o o
+chat_domain	chat_intent	拭 目 以 待 吧 ！ 这 样 的 房 价 切 实 高 了 ！	o o o o o o o o o o o o o o o o
+stock	CLOSEPRICE_QUERY	美 菱 电 器 的 昨 日 收 盘 价 是 多 少	b-name i-name i-name i-name o b-yesterday i-yesterday o o o o o o
+flight	QUERY	查 询 今 天 上 海 到 成 都 的 航 班	o o b-startDate_date i-startDate_date b-startLoc_city i-startLoc_city o b-endLoc_city i-endLoc_city o o o
+cookbook	QUERY	番 红 烧 肉 的 做 法 。	o b-dishName i-dishName i-dishName o o o o
+video	QUERY	风 车 第 十 五 集	b-name i-name b-episode i-episode i-episode i-episode
+map	POSITION	龙 王 庙 在 哪 里	b-location_poi i-location_poi i-location_poi o o o
+poetry	QUERY	来 一 首 咏 柳 。	o o o b-name i-name o
+cinemas	QUERY	哦 哦 ， 最 新 的 电 影 。	o o o o o o o o o
+tvchannel	PLAY	找 深 圳 卫 视	o b-name i-name i-name i-name
+telephone	DIAL	呼 叫 小 惠	o o b-name i-name
+cookbook	QUERY	红 烧 带 鱼 怎 么 做 ？ 你 ？	b-dishName i-dishName i-dishName i-dishName o o o o o o
+cookbook	QUERY	煮 咖 喱 饭 。	o b-dishName i-dishName i-dishName o
+riddle	QUERY	给 我 讲 一 个 谜 语 吧 ！	o o o o o b-category i-category o o
+email	SEND	发 邮 件 给 莹 莹 说 我 好 困 我 想 睡 觉	o o o o b-name i-name o b-content i-content i-content i-content i-content i-content i-content
+map	POSITION	河 北 在 哪 里	b-location_province i-location_province o o o
+chat_domain	chat_intent	为 啥 最 后 那 只 的 舌 头 是 黑 色 的 ， 中 毒 了 吗	o o o o o o o o o o o o o o o o o o
+tvchannel	PLAY	中 央 八	b-name i-name i-name
+chat_domain	chat_intent	。 高 中 数 学 没 毕 业 过 的 路 过 。	o o o o o o o o o o o o o
+app	QUERY	帮 我 找 到 微 信	o o o o b-name i-name
+cookbook	QUERY	怎 样 给 宝 宝 做 胡 萝 卜 泥 。	o o o o o o b-dishName i-dishName i-dishName i-dishName o
+news	PLAY	我 要 听 昆 明 新 闻 。	o o o b-location_city i-location_city o o o
+epg	QUERY	查 查 什 么 时 候 放 百 变 大 咖 秀	o o o o o o o b-name i-name i-name i-name i-name
+cookbook	QUERY	请 问 牛 排 怎 么 做	o o b-dishName i-dishName o o o
+cookbook	QUERY	红 烧 排 骨 怎 么 做 的 吗 ？	b-dishName i-dishName i-dishName i-dishName o o o o o o
